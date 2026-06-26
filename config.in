@@ -1,0 +1,6 @@
+536987 2358   # base_seed1 base_seed2
+512 1024          # GPU: threads per block, histories per thread
+0                 # CPU: histories per batch (0 => single batch)
+0.1               # ecut_transport_kev (optional; minimum & default 0.1 keV)
+1                 # Non-local voxel energy loss update (optional; NOT USED)
+50.0              # Anti-aliasing step change X% -> 0.05 cm +- X% (optional; default 10.0)
