@@ -3,35 +3,46 @@ import numpy as np
 import argparse
 from scipy.ndimage import gaussian_filter
 
-# Density table from tablas-positrones/input-materiales.dat.
+# Density table from tablas-positrones/input-materiales.dat (30 Schneider materials).
 # Index 0 is unused so material IDs can be used directly as indices.
 MATERIAL_DENSITIES = np.array([
     0.0,
-    1.21000000E-03,
-    4.80000000E-01,
+    2.67500000E-02,
+    1.12000000E-01,
+    2.46000000E-01,
+    3.64000000E-01,
+    4.79950000E-01,
+    5.87000000E-01,
+    7.54000000E-01,
+    8.21000000E-01,
     9.26455000E-01,
     9.57722500E-01,
     9.84512500E-01,
     1.01130250E+00,
     1.02960900E+00,
     1.06086550E+00,
-    1.12000000E+00,
-    1.11172000E+00,
-    1.16500000E+00,
-    1.22420000E+00,
-    1.28340000E+00,
-    1.34260000E+00,
-    1.40180000E+00,
-    1.46100000E+00,
-    1.52020000E+00,
-    1.57940000E+00,
-    1.63860000E+00,
-    1.69780000E+00,
-    1.75700000E+00,
-    1.81620000E+00,
-    1.87540000E+00,
-    1.93460000E+00
+    1.08850000E+00,
+    1.10640000E+00,
+    1.14925000E+00,
+    1.20215000E+00,
+    1.25505000E+00,
+    1.30795000E+00,
+    1.36085000E+00,
+    1.41375000E+00,
+    1.46665000E+00,
+    1.51955000E+00,
+    1.57245000E+00,
+    1.62535000E+00,
+    1.67825000E+00,
+    1.73115000E+00,
+    1.78405000E+00,
+    1.83695000E+00
 ], dtype=np.float32)
+
+# Midpoints between consecutive material densities, used to classify a
+# continuous physical density (from real_density_from_ct/umap) into the
+# nearest of the 30 materials via np.searchsorted.
+_MATERIAL_DENSITY_MIDPOINTS = (MATERIAL_DENSITIES[1:-1] + MATERIAL_DENSITIES[2:]) / 2.0
 
 
 def density_from_material(material):
@@ -68,42 +79,14 @@ def real_density_from_ct(data):
 
 
 def process_ct(data):
-    """Process CT data and return material IDs."""
-    material = np.ones(data.shape, dtype=np.int32)
+    """Process CT data and return material IDs.
 
-    # Material segmentation based on CT values
-    conditions = [
-        data <= -950,
-        (data > -950) & (data <= -120),
-        (data > -120) & (data <= -83),
-        (data > -83) & (data <= -53),
-        (data > -53) & (data <= -23),
-        (data > -23) & (data <= 7),
-        (data > 7) & (data <= 18),
-        (data > 18) & (data <= 80),
-        (data > 80) & (data <= 120),
-        (data > 120) & (data <= 200),
-        (data > 200) & (data <= 300),
-        (data > 300) & (data <= 400),
-        (data > 400) & (data <= 500),
-        (data > 500) & (data <= 600),
-        (data > 600) & (data <= 700),
-        (data > 700) & (data <= 800),
-        (data > 800) & (data <= 900),
-        (data > 900) & (data <= 1000),
-        (data > 1000) & (data <= 1100),
-        (data > 1100) & (data <= 1200),
-        (data > 1200) & (data <= 1300),
-        (data > 1300) & (data <= 1400),
-        (data > 1400) & (data <= 1500),
-        data > 1500
-    ]
-
-    # Assign material IDs
-    for i, condition in enumerate(conditions):
-        material[condition] = i + 1
-
-    return material
+    Classifies each voxel's physical density (from the HU calibration in
+    real_density_from_ct) into the nearest of the 30 material densities.
+    """
+    density = real_density_from_ct(data)
+    material = np.searchsorted(_MATERIAL_DENSITY_MIDPOINTS, density) + 1
+    return material.astype(np.int32)
 
 def process_umap(data):
     """Process UMAP data: convert to CT, then to material IDs."""
