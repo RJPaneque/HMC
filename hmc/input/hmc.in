@@ -1,0 +1,35 @@
+# HMC run configuration: key = value, '#' starts a comment. The file describes
+# the whole run; the command line is only `--config FILE [--resume] [--quiet]`
+# (hmc.x --config-example prints this file). Paths are relative to the working directory.
+
+# inputs and output
+density  = hmc/input/density_map.raw   # float32 .raw mass-density map [g/cm3], the only geometry input
+activity = hmc/input/activity_map.raw  # float32 .raw activity map on the same grid (relative, per voxel)
+spectrum = hmc/input/spectrum.txt      # two columns E_eV weight (isotopes: hmc/input/spectra/)
+output   = hmc/output/test_map.raw     # float32 .raw counts; also <output>.json and <output>.material.raw
+tables   = luts/output/penelope         # LUT directory: for step_model = ladder a bundle (subdirectories step*/, e.g. step1-1 .. step1-8, one table set each, ordered by the step_cm of their run.json); for endpoint / hinge one table set (e.g. luts/output/penelope/step1-1)
+
+# run
+backend  = auto                   # auto | cpu | gpu  (auto: the GPU when the build has it and a device is found)
+nhist    = 1000000                # histories (int64)
+seed     = 123456789              # master seed; worker t draws from Philox stream t
+rho_void = 0                      # density <= this [g/cm3] is void: positrons entering it escape
+step_model = ladder               # ladder | endpoint | hinge  (ladder, the engine: every step takes the longest set of the bundle whose reach fits the distance to the nearest significant face, else the interface hinge on the shortest set; endpoint: surviving steps from one set's step-end tables, stepend_LUT.raw; hinge: one set's scattering tables, the hinge key decides which. endpoint and hinge are kept for validation comparisons)
+hinge    = interface              # interface | classic  (step_model = hinge; interface: steps cut at material faces)
+stop     = table                  # table | hinge  (where a positron that stops within a step is tallied)
+face_rule  = hinge                # hinge | chord  (endpoint only: a step whose chord meets a material face is redone as the interface hinge, or cut at the face along the chord)
+# ladder     = dirA, dirB, dirC   # ladder: these table sets (decreasing step_cm) instead of the bundle in tables (diagnostics)
+# face_tau   = 0.05               # ladder: a face is significant across a tissue class change (air, lung, soft, bone; void, grid edge) or |ln(rho_a/rho_b)| > face_tau
+source   = quota                  # quota | random  (quota: every voxel gets exactly its share nhist x a_i / A of the histories; random: each history draws its voxel from the activity CDF)
+sampling = center                 # center | uniform | corner  (emission point within the source voxel)
+normal   = false                  # true: emit along +z instead of isotropically (diagnostic)
+checkpoint = 0                    # histories between checkpoints to <output>.ckpt (0: none; --resume continues)
+max_wall_s = 0                    # stop cleanly at the first checkpoint after this many seconds (0: no limit)
+
+# CPU backend
+cpu_threads = 0                   # 0: OpenMP default
+
+# GPU backend (nvfortran + CUDA build only)
+gpu_threads_pb      = 0           # threads per block; 0: the size that fills the device best (its register file decides)
+gpu_blocks          = 0           # 0: two resident waves of blocks; blocks x threads = RNG streams (fixed for --resume)
+gpu_hist_per_thread = 1000        # histories per thread per kernel launch

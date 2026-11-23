@@ -1,0 +1,6 @@
+# Python packages of the tools and tests in this repository (the executables need none of them)
+numpy
+scipy        # legacy scripts, luts, validation tools
+matplotlib   # validation/tools/plot_results.py, luts figures
+pytest       # the tests of materials/, spectrum/, luts/
+# also the `zstd` command (luts/ reads compressed raw files through it) and `unzip` for the Zenodo files
