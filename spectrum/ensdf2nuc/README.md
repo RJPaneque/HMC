@@ -69,4 +69,4 @@ for a spectrum made this way: a few percent on the mean energy; the DDEP files r
 
 1. Get the ENSDF data set of the nuclide's decay (NNDC, `ensdf/` here), 2. run `ensdf2nuc.py` (above), 3. run `check_nuc.py FILE.nuc ensdf/DATASET.ensdf`, 4. put the file in `spectrum/input/extra/<El>-<A>.nuc`,
 5. `python spectrum/generate_spectra.py <El><A>`, 6. compare the main branches, the β⁺ total and the mean energy with the ENSDF table as in the checks above, and add them to this README.
-The PENNUC build used for the spectra has `NBM = 400` branches per daughter (the stock 200 is too small for the 288 records of Y-86).
+PENNUC (`build.sh`) is built with `NBM = 400` branches per daughter (the stock 200 is too small for the 288 records of Y-86).
