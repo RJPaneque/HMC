@@ -57,7 +57,7 @@ Proceedings of SC '11, 2011), implemented independently for HMC. The known-answe
 
 ## Validation package (`validation/`)
 
-- The 30 `.mat` files of `materials/` and `validation/materials/*.mat` are PENELOPE material files, generated with PENELOPE's `material` program;
+- The 30 `.mat` files of `materials/` are PENELOPE material files, generated with PENELOPE's `material` program;
   the notice of PENELOPE is in part 4.1 of `LICENSE`.
 - The results tables hold the output of: PENELOPE (via our `pvoxel` program) and PenEasy (J. Sempau, A. Badal and L. Brualla, *Med. Phys.*
   38 (2011) 5887; version 2024), PenRed (V. Giménez-Alventosa, V. Giménez Gómez and S. Oliver, *Comput. Phys. Commun.* 267 (2021)
@@ -74,8 +74,8 @@ Proceedings of SC '11, 2011), implemented independently for HMC. The known-answe
   itself and the nuclide database are not distributed, and neither is `material`.
 - `luts/src/sim_geant4/run_geant4.cc` links against Geant4 (Geant4 Software License), which the Docker image downloads and builds.
 - The drivers for EGSnrc and FLUKA are not distributed (see `luts/README.md`); the tables made with them are.
-- Figures use Carlito (Copyright 2013 The Carlito Project Authors, SIL Open Font License 1.1: `validation/tools/fonts/OFL.txt`), the
-  metric-compatible open twin of Calibri.
+- The figures of `validation/figures/` were drawn with Carlito (Copyright 2013 The Carlito Project Authors, SIL Open Font License 1.1), the
+  metric-compatible open twin of Calibri; the font is not distributed.
 
 ## CPU-only executable (`hmc-cpu-x86_64`)
 

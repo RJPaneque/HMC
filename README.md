@@ -126,7 +126,7 @@ settings are documented. Each folder has a README.
 
 305 synthetic cases (point sources of seven isotopes in six tissues, slabs, density ramps, thin lamellae) run on HMC and on ten
 reference codes (PENELOPE, PenEasy, GATE, Geant4, EGSnrc, PenRed, FLUKA and our GPU ports of three of them), with the case files, the
-30 PENELOPE material files, the results of every code, three figures and the Python tools to run any case on `hmc.x` and score it
+results of every code, six figures and the Python tools to run any case on `hmc.x` and score it
 against the reference band. `validation/README.md` has the details and a walk-through. With the PENELOPE tables, all 1220 radial
 quantities of the 305 cases are inside the band of the references.
 

@@ -38,9 +38,7 @@ The data and scripts are under Creative Commons licences (the texts are at the l
                                  30 .mat files carry the PENELOPE notice of part 4
 
   validation/                    CC BY-NC 4.0 (the case files, results, figures and the Python tools; non-commercial because the
-                                 FLUKA licence is); the PENELOPE material files in validation/materials/ carry the PENELOPE
-                                 notice of part 4; the Carlito fonts in validation/tools/fonts are under the SIL OFL 1.1
-                                 (validation/tools/fonts/OFL.txt, kept next to the fonts)
+                                 FLUKA licence is)
 
   the Zenodo tables              CC BY-NC 4.0, as stated on the Zenodo record (https://creativecommons.org/licenses/by-nc/4.0/):
                                  the condensed-history tables of the engine, computed with PENELOPE, Geant4, EGSnrc and FLUKA
@@ -151,15 +149,15 @@ SOFTWARE.
 
 ==============================================================================
 PART 4.  THIRD-PARTY NOTICES (licence texts; what each component is, and the citations, are in THIRD_PARTY_NOTICES.md; the NVIDIA
-agreements are linked there, not copied, and the SIL OFL of the Carlito fonts is kept next to them)
+agreements are linked there, not copied)
 ==============================================================================
 
 
 ------------------------------------------------------------------------------
-4.1  PENELOPE (the material files of validation/materials/ and the 30 .mat files of materials/)
+4.1  PENELOPE (the 30 .mat files of materials/)
 ------------------------------------------------------------------------------
 
-The material files of validation/materials/ and the 30 .mat files of materials/ (mat1.mat ... mat30.mat) were generated with the program `material` of PENELOPE from the
+The 30 .mat files of materials/ (mat1.mat ... mat30.mat) were generated with the program `material` of PENELOPE from the
 PENELOPE database. The notice of PENELOPE:
 
 PENELOPE/PENGEOM (version 2018)
