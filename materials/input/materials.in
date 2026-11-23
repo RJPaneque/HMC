@@ -1,0 +1,39 @@
+# HMC-2 material set: tissue mass densities [g/cm3], one per line.
+#
+# Each density is converted to a CT number via the Schneider et al. (2000)
+# calibration and assigned the Table 6 composition of the corresponding
+# HU bin. One PENELOPE .mat file is generated per density (mat1..matN).
+#
+# Generate with:  pixi run gen-materials
+#
+# density     tissue
+0.02675     # air
+0.112       # lung (level 1)
+0.246       # lung (level 2)
+0.364       # lung (level 3)
+0.47995     # lung (level 4)
+0.587       # lung (level 5)
+0.754       # lung (level 6)
+0.821       # lung (level 7)
+0.926455    # adipose
+0.9577225   # adipose
+0.9845125   # adipose
+1.0113025   # soft tissue
+1.029609    # soft tissue
+1.0608655   # soft tissue
+1.0885      # connective tissue
+1.1064      # skeletal
+1.14925     # skeletal
+1.20215     # skeletal
+1.25505     # skeletal
+1.30795     # skeletal
+1.36085     # skeletal
+1.41375     # skeletal
+1.46665     # skeletal
+1.51955     # skeletal
+1.57245     # skeletal
+1.62535     # skeletal
+1.67825     # skeletal
+1.73115     # skeletal
+1.78405     # skeletal
+1.83695     # cortical bone
