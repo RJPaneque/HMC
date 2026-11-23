@@ -1,0 +1,6 @@
+0.05                    ! STEP_CM  -- distance traveled per step [cm]
+1000.0                  ! EMIN_SIM -- minimum energy [eV]
+4600000.0               ! EMAX_SIM -- maximum energy [eV]
+116                     ! NENRG    -- number of log-spaced energy points
+100000                  ! NHIST    -- histories per energy point
+input/mats              ! MAT_DIR  -- folder with mat1.mat, mat2.mat, ...
