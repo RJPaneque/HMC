@@ -1,0 +1,53 @@
+# MATERIAL 1: MAT1. Density (g/cm**3)       [air]
+1.21000000E-03
+# MATERIAL 2: MAT2. Density (g/cm**3)       [lung]
+4.80000000E-01
+# MATERIAL 3: MAT3. Density (g/cm**3)  
+9.26455000E-01
+# MATERIAL 4: MAT4. Density (g/cm**3)
+9.57722500E-01
+# MATERIAL 5: MAT5. Density (g(cm**3)       
+9.84512500E-01
+# MATERIAL 6: MAT6. Density (g/cm**3)       [water]
+1.01130250E+00
+# MATERIAL 7: MAT7. Density (g/cm**3)
+1.02960900E+00
+# MATERIAL 8: MAT8. Density (g/cm**3)
+1.06086550E+00
+# MATERIAL 9: MAT9. Density (g/cm**3)
+1.12000000E+00 
+# MATERIAL 10: MAT10. Density (g(cm**3)
+1.11172000E+00
+# MATERIAL 11: MAT11. Density (g/cm**3)
+1.16500000E+00
+# MATERIAL 12: MAT12. Density (g/cm**3)
+1.22420000E+00
+# MATERIAL 13: MAT13. Density (g/cm**3)
+1.28340000E+00
+# MATERIAL 14: MAT14. Density (g/cm**3)
+1.34260000E+00
+# MATERIAL 15: MAT15. Density (g(cm**3)
+1.40180000E+00
+# MATERIAL 16: MAT16. Density (g/cm**3)     [bone_B100]
+1.46100000E+00
+# MATERIAL 17: MAT17. Density (g/cm**3)
+1.52020000E+00
+# MATERIAL 18: MAT18. Density (g/cm**3)
+1.57940000E+00
+# MATERIAL 19: MAT19. Density (g/cm**3)
+1.63860000E+00
+# MATERIAL 20: MAT20. Density (g(cm**3)
+1.69780000E+00 
+# MATERIAL 21: MAT21. Density (g/cm**3)
+1.75700000E+00
+# MATERIAL 22: MAT22. Density (g/cm**3)
+1.81620000E+00
+# MATERIAL 23: MAT23. Density (g/cm**3)     [bone_cor]
+1.87540000E+00
+# MATERIAL 24: MAT24. Density (g(cm**3)
+1.93460000E+00
+
+
+
+
+

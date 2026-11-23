@@ -3,7 +3,7 @@
 build_30mat_tables.py
 
 Converts the raw per-history positron transport data produced by
-HMC-2/tablegen (positron_raw_matXX.txt, 30 materials, 103-point natural-log
+the raw histories (positron_raw_matXX.txt, 30 materials, 103-point natural-log
 energy grid from 1 keV to 4.6 MeV) into the file formats consumed by the
 hybrid_final Fortran/CUDA engine (SOURCES_v9), replacing the old 24-material
 tables.
@@ -31,6 +31,8 @@ New energy grid (must match SOURCES_v9 update): natural-log spaced,
 E(ie) = 1.0 * exp((ie-1)*FAC) keV, FAC = ln(4600)/102, ie = 1..103.
 """
 
+import os
+
 import numpy as np
 from pathlib import Path
 
@@ -42,9 +44,13 @@ EMAX_KEV = 4600.0
 FAC = np.log(EMAX_KEV / EMIN_KEV) / (N_ENERGIES - 1)
 MAX_EDEPO_KEV = 4600
 
-RAW_DIR = Path("/home/rpy/Projects/HMC-2/tablegen/output/raw")
-MAT_DIR = Path("/home/rpy/Projects/HMC-2/materials/output/30mats")
-OUT_DIR = Path("/home/rpy/Projects/HMC/source/hybrid_final/tablas-positrones")
+# Paths (environment variables; defaults relative to the working directory / the repository):
+#   RAW_DIR  folder with the raw files positron_raw_mat<N>.txt          (default: raw)
+#   MAT_DIR  folder with mat1.mat ... mat30.mat                          (default: materials/output/30mats of the repository)
+#   OUT_DIR  where the tables are written                                (default: tablas-positrones)
+RAW_DIR = Path(os.environ.get("RAW_DIR", "raw"))
+MAT_DIR = Path(os.environ.get("MAT_DIR", Path(__file__).resolve().parents[2] / "materials" / "output" / "30mats"))
+OUT_DIR = Path(os.environ.get("OUT_DIR", "tablas-positrones"))
 
 ENERGY_GRID_KEV = EMIN_KEV * np.exp(np.arange(N_ENERGIES) * FAC)
 

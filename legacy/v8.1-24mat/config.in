@@ -1,0 +1,5 @@
+4154740400 224871675   # base_seed1 base_seed2
+512 1024          # GPU: threads per block, histories per thread
+0                 # CPU: histories per batch (0 => single batch)
+0.1               # ecut_transport_kev (minimum 0.1 keV)
+0                 # use_nonlocal_density_step (0=false: local mode, 1=true: nonlocal mode)
