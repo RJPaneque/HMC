@@ -1,0 +1,29 @@
+Data set : 86Y EC DECAY (14.74 H)  [2020GU18                  25NDS    202507]
+Parent   : 86Y (Z=39)  Q = 5240 +- 14 keV   daughter 86SR (Z=38)   NR*BR = 0.827
+Capture sub-shell model (Z=39): L/K exchange factor seen in ENSDF = 1.076 (scale 0.45)
+   L2/L1 = 0.01322    L3/L1 (1st unique) = 10057 keV^2 / q^2    N+/M = 0.1891
+Sum of the feedings before normalisation: 100.5355 %  -> all branches scaled by 0.99467
+Written  : 53 levels (+ g.s.), 288 branch records, 203 gamma records, 444 conversion-electron records
+Totals per decay: beta+ = 0.2767   EC = 0.7233  (K 0.6305, L1 0.0747, L2 0.00099, L3 0.000001, M 0.01442, N+ 0.00273)   sum = 1.000000
+  skipped: level 3870.98 keV, gamma 3871.2 keV: intensity is only a limit (0.0014 LT) -> not written
+  skipped: level 4144.67 keV, gamma 4144.7 keV: intensity is only a limit (0.0001 LT) -> not written
+  skipped: level 4408.81 keV, gamma 4409 keV: intensity is only a limit (0.00014 LT) -> not written
+  skipped: level 1853.90 keV: EC/b+ feeding given as 0.8 (limit), gamma balance -0.4301 % -> no branch written
+  skipped: level 2641.15 keV: EC/b+ feeding given as 0.01 (limit), gamma balance -0.0242 % -> no branch written
+  skipped: level 4224.93 keV: EC/b+ feeding given as 0.0003 (limit), gamma balance -0.0007 % -> no branch written
+Feeding used (after normalisation) versus ENSDF E record, levels where they differ by > 3 % of the value:
+   level 2856.62   used   0.0436 %   ENSDF 0.05 
+   level 2877.90   used   0.7526 %   ENSDF 0.80 
+   level 3290.88   used   0.0537 %   ENSDF 0.06 
+   level 3555.40   used   0.9367 %   ENSDF 1.304 
+   level 3806.24   used   0.2520 %   ENSDF 0.310 
+   level 3925.41   used   6.1897 %   ENSDF 5.88 
+Cascade check (gamma emission probability implied by the file / ENSDF %IG - 1):
+   lines >= 1 %: max deviation 0.57 %;   all 203 lines: 3 deviate by > 5 %
+   level 4224.93 gamma 1995.3 (I = 0.00438 %): +16.2 %
+   level 2641.15 gamma 1564.48 (I = 0.116 %): +7.4 %
+   level 2641.15 gamma 2641.15 (I = 0.187 %): +7.4 %
+   level 1853.90 gamma 777.14 (I = 21.7 %): +0.6 %
+   level 1853.90 gamma 1853.82 (I = 16.9 %): +0.6 %
+   decays reaching the ground state: 1.000000
+-> /home/claude/out/Y-86.nuc

@@ -1,0 +1,1163 @@
+
+
+ 86SR    86Y EC DECAY (14.74 H)        2020GU18                  25NDS    202507
+ 86SR  H TYP=FUL$AUT=A. Negret and B. Singh$CIT=NDS 203, 283 (2025)$
+ 86SR2 H CUT=20-Jan-2025$
+ 86SR c  2020Gu18: {+86}Y produced in (p,n) reaction by irradiating 96.4%
+ 86SR2c  enriched {+86}Sr (as {+86}SrCO{-3}) with 16-MeV protons from the
+ 86SR3c  University of Wisconsin Medical Physics cyclotron, followed by
+ 86SR4c  a chemical procedure to extract {+86}Y radionuclide with a purity of
+ 86SR5c  98.3%. The |g-ray measurement started at the Argonne National
+ 86SR6c  Laboratory, 24 hours after the irradiation and follow up chemistry.
+ 86SR7c  Measured E|g, I|g, |g|g- and |g|g|g-coin, |g|g(|q) using the
+ 86SR8c  Gammasphere array with 32 HPGe detectors at ANL. A total of
+ 86SR9c  206 |g rays were reported, placed among 53 levels, with 20 new levels.
+ 86SR c  2022Ud01 (also 2023UdZZ): {+86}Y produced in (p,n) reaction by
+ 86SR2c  irradiating {+86}SrCO{-3} powder at E{-p}=7, 8 MeV using the BC 1710
+ 86SR3c  cyclotron of FZJ, Germany. Measured |g and X rays and deduced
+ 86SR4c  %|e=72.8 {i20} and %|b{++}=27.2 {i20} using %I|g data from 2020Gu18.
+ 86SR c  1984Ak02: measured |g|g(|q) for 15 |g|g cascades using Ge(Li)-NaI(Tl)
+ 86SR2c  detectors.
+ 86SR c  1975Be59: measured |g|g(|q) for two |g|g cascades using NaI(Tl)
+ 86SR2c  detectors.
+ 86SR c  1970Ra06 (also 1969Ra08): {+86}Y source prepared in {+86}Sr(p,n),E=12
+ 86SR2c  MeV reaction at ORNL lab cyclotron using 96.7% enriched {+86}Sr (as
+ 86SR3c  {+86}SrCO{-3}), followed by a chemical procedure to extract {+86}Y
+ 86SR4c  activity. Measured E|g, I|g using several Ge(Li) detectors, |g|g-coin
+ 86SR5c  using Ge(Li)-Ge(Li) and Ge(Li)-NaI(Tl) combinations, and conversion
+ 86SR6c  electrons using Vanderbilt iron-free double-focusing |b-ray
+ 86SR7c  spectrometer. A total of 105 |g rays reported, placed among 31 levels
+ 86SR8c  up to 4954 keV, based on extensive |g|g-coin data. The decay scheme
+ 86SR9c  was significantly modified from the one proposed by 1969Ar25. Only one
+ 86SRAc  level at 3942 keV was not confirmed by 2020Gu18.
+ 86SR c  1970Ar03: measured |g|g(|q) for five |g|g cascades using
+ 86SR2c  Ge(Li)-NaI(Tl) detectors.
+ 86SR c  1969Ar25: measured E|g, I|g. Total of 85 |g rays reported. Strong
+ 86SR2c  |g rays agree in energy and intensity with those from 2020Gu18
+ 86SR c  1965Va02: measured E|g, I|g, ce, E|b, I|b, |b|g- and |g|g-coin,
+ 86SR2c  |g|g(|q), |b-shape factors. A total of 25 |g rays from 189 to 2583
+ 86SR3c  keV reported from internal conversion measurements. Gamma-ray data
+ 86SR4c  in singles and coincidence were obtained using NaI(Tl) detectors
+ 86SR c  1962Ya01: measured E|b, I|b, internal and external conversion
+ 86SR2c  electrons using sector-type double-focusing |b-ray spectrometer,
+ 86SR3c  |b shape factor, |g rays in singles, coincidence and |g|g(|q) using
+ 86SR4c  NaI(Tl) detectors. A total of 21 |g rays reported from 181 to 2580
+ 86SR5c  placed among 13 excited states up to 4932 keV. The |g|g(|q)
+ 86SR6c  measurements were made for seven |g|g cascades using NaI(Tl) detectors
+ 86SR c  T{-1/2}({+86}Y decay): 1972Em01, 1951Ca46, 1951Hy24
+ 86SR c  Theory for {+86}Y decay: 2017Ko05
+ 86SR cE TI,IE$From 2020Gu18, based on in-out transition intensity balances.
+ 86SR cG $A 702.2 {I6} unplaced |g with I|g=0.3 {I1} in 1970Ra06 is omitted
+ 86SR2cG as it is not reported in 2020Gu18
+ 86SR cG $Following 16 weak |g rays were reported by 1969Ar25 only:
+ 86SR2cG 241.7 {I5} (1.01 {I16}), 815.5 {I15} (1.5 {I5}), 909.7 {I5} (2.0 {I5}),
+ 86SR3cG 928 {I1} (1.6 {I4}), 1782 {I1} (0.1), 2043 {I2} (0.1), 2164 {I2}
+ 86SR4cG (0.10 {I5}), 2190 {I3} (0.10 {I3}), 2228 {I3} (|<0.1), 2298 {I2} (0.1),
+ 86SR5cG 2558 {I2} (0.10 {I7}), 2859 {I3} (0.3 {I1}), 3025 {I5} (0.09),
+ 86SR6cG 3795 {I5} (0.10 {I3}) and 3918 {I5} (0.56). Some of these |g rays were
+ 86SR7cG placed in a level scheme proposed by 1969Ar25, but none has been
+ 86SR7cG confirmed from the detailed |g|g-coin data of 2020Gu18, thus
+ 86SR8cG omitted here.
+ 86SR cG $Although not explicitly specified, evaluators assume that all the
+ 86SR2cG |g-ray placements in 2020Gu18 are from their |g|g-coin data,
+ 86SR2cG except for a few g.s. transitions from levels with no feeding from
+ 86SR3cG higher levels
+ 86SR cG E,RI$From 2020Gu18. A minimum systematic uncertainty of 2% was
+ 86SR2cG considered by the authors and added in quadrature to the statistical
+ 86SR3cG uncertainties
+ 86SR cG M,MR$From |g|g(|q) data in 2020Gu18, unless specified otherwise.
+ 86SR cL $A level at 4339 keV proposed by 1970Ra06 was not confirmed by 2020Gu18
+ 86SR2cL as the authors did not observe in singles or coincidences a very weak
+ 86SR3cL 1154.0 {I15} |g in 1970Ra06 from this level
+ 86SR cL $Levels at 2558, 3507, 4871 and 4994 keV proposed in a level scheme by
+ 86SR2cL 1969Ar25 are omitted here, as none is confirmed in later studies by
+ 86SR3cL 1970Ra06 and 2020Gu18 using detailed |g|g-coin data. |g rays
+ 86SR4cL from these levels have either been reassigned to other levels or
+ 86SR5cL their existence not confirmed. In addition, placements of many other
+ 86SR6cL |g rays in the decay scheme of 1969Ar25 have been reassigned by
+ 86SR7cL 1970Ra06 and 2020Gu18.
+ 86SR cL E$From 2020Gu18, deduced by authors from least-squares fit to E|g data.
+ 86SR2cL Evaluators deduce reduced |h{+2}=0.96 from the same least-squares fit
+ 86SR3cL as in 2020Gu18, with only four |g rays deviating between 2 and 3
+ 86SR4cL sigmas.
+ 86SR cL J,T$From the Adopted Levels
+ 86SR  N  0.827    14           1.0
+ 86SR cN NR$|S(I(|g+ce) of |g rays to g.s.)=100. Direct feeding to g.s.
+ 86SR2cN is highly forbidden.
+ 86SR PN                                                                     3
+ 86Y   P 0.0          4-               14.74 H    2              5240     14
+ 86Y  cP J,T$From {+86}Y Adopted Levels
+ 86Y  cP QP$from 2021Wa16
+ 86Y  cP $%|e=72.8 {i20} %|b{++}=27.2 {i20} (2022Ud01)
+ 86SR  L    0.0       0+                STABLE
+ 86SR  L 1076.63   5  2+                1.46 PS  +9-8
+ 86SR  E             0.5     LT0.08    LT10.9    GT             0.6       LT 1U
+ 86SRS E EAV=1428 6$CK=0.1127 31$CL=0.01348 37$CM+=0.00305 7
+ 86SR cE TI$0.6 {I20} from |g-transition intensity balance.
+ 86SR cE $Measured E|b=3153 {I40} (1965Va02), 3130 {I30} (1962Ya01); I|b=0.6
+ 86SR2cE (1965Va02,1962Ya01). Shape=2, yes (1965Va02,1962Ya01)
+ 86SR  G 1076.66   9  100    2  E2                     4.89E-4               C
+ 86SR2 G EKC=0.00041 4 (1970Ra06) $
+ 86SR cG $K/LM=7.1 {I5} (1962Ya01)
+ 86SR2 G %IG=82.7 4
+ 86SR cG $E|g=1076.63 {I10}, I|g=100, Ice(K)=100 (1970Ra06)
+ 86SR cG $E|g=1076 {I1}, I|g=100 (1969Ar25)
+ 86SR cG $Ice(K)=100, Ice(L+M)=14.0 {I10} (1962Ya01)
+ 86SRS G  KC=0.000433 6$LC=4.70E-5 7$MC=7.89E-6 11
+ 86SRS G  NC=9.90E-7 14$OC=6.41E-8 9
+ 86SR  L 1853.90    5 2+                 193 FS  30
+ 86SR  E             0.4     LT0.2     LT10.1    GT             0.8       LT 1U
+ 86SRS E EAV=1072 6$CK=0.242 7$CL=0.0290 8$CM+=0.00657 15
+ 86SR cE TI$from |g-transition intensity balance in 2020Gu18. From |b{++}
+ 86SR2cE spectra in 1965Va02 and 1962Ya01 , the |b{++} feeding of 0.6% to the
+ 86SR3cE g.s. is definite.
+ 86SR cE $Measured E|b=2335 {I40} (1965Va02), 2320 {I50} (1962Ya01); I|b=1.3
+ 86SRxcE (1965Va02), 0.6 (1962Ya01)
+ 86SR  G 777.14    8  26.2   7  M1+E2    +0.33   5     9.75E-414             C
+ 86SR2 G %IG=21.7 7
+ 86SR2 G EKC=0.00093 8 (1970Ra06)$ EKC=0.00101 16 (1970Ra06)$
+ 86SR cG $K/LM=9.2 {I16} (1962Ya01)
+ 86SRS G  KC=0.000864 12$LC=9.36E-5 14$MC=1.572E-5 23
+ 86SRS G  NC=1.977E-6 28$OC=1.295E-7 18
+ 86SR cG MR$from |g|g(|q) (2020Gu18). Other: +0.251 {I17} (1984Ak02)
+ 86SR cG $E|g=777.37 {I10}, I|g=27.2 {I7}, Ice(K)=59 {I5} (1970Ra06)
+ 86SR cG $E|g=778.5 {I5}, I|g=26.0 {I15} (1969Ar25)
+ 86SR cG $Ice(K)=53 {I3}, Ice(L+M)=5.7 {I10} (1962Ya01)
+ 86SR cG $(777|g)(1077|g)(|q): A{-2}=+0.065 {I15}, A{-4}=+0.02 {I3} (1984Ak02)
+ 86SR cG $(777|g)(1077|g)(|q): A{-2}=+0.040 {I23}, A4=+0.017 {I37} (1970Ar03)
+ 86SR cG $(777|g)(1077|g)(|q): A{-2}=+0.007 {I21}, A4=+0.039 {I39} (1962Ya01)
+ 86SR  G 1853.82   8  20.4   4  E2                     3.98E-4 6             C
+ 86SR2 G %IG=16.9 4
+ 86SR2 G EKC=0.000147 23 (1970Ra06)
+ 86SRS G  KC=0.0001423 20$LC=1.522E-5 21$MC=2.55E-6 4
+ 86SRS G  NC=3.21E-7 4$OC=2.114E-8 30$IPC=0.0002379 33
+ 86SR cG $E|g=1854.38 {I13}, I|g=20.8 {I6}, Ice(K)=7.1 {I11} (1970Ra06)
+ 86SR cG $E|g=1854.5 {I15}, I|g=22.4 {I16} (1969Ar25)
+ 86SR cG $Ice(K)=8.0 {I5} (1962Ya01)
+ 86SR  L 2229.50    5 4+                1.73 PS  21
+ 86SR  E             3.7      70.9     5 7.74     9             4.6        9
+ 86SRS E EAV=881 6$CK=0.167 5$CL=0.0199 6$CM+=0.00450 12
+ 86SR cE $Measured E|b=2019 {I20} (1965Va02), 1960 {I20} (1962Ya01); I|b=4.6
+ 86SR2cE (1965Va02), 3.9 (1962Ya01)
+ 86SR  G 1152.82   8  37.0   9  E2(+M3)   0.00016LT    4.23E-4 6             C
+ 86SR2 G %IG=30.6 9
+ 86SR2 G EKC=0.000373 26 (1970Ra06)$
+ 86SR cG $K/LM=9.5 {I3} (1962Ya01)
+ 86SR cG MR$|d(M3/E2)=-0.034 {I8} (2020Gu18) gives too large a B(M3)(W.u.)
+ 86SR2cG value; For B(M3)(W.u.)<10 from RUL, |d(M3/E2)<0.00016
+ 86SRS G  KC=0.000373 5$LC=4.05E-5 6$MC=6.79E-6 10
+ 86SRS G  NC=8.52E-7 12$OC=5.54E-8 8$IPC=3.02E-6 4
+ 86SR cG $E|g=1153.05 {I10}, I|g=37.0 {I11}, Ice(K)=32 {I2} (1970Ra06)
+ 86SR cG $E|g=1153.0 {I15}, I|g=37 {I1} (1969Ar25)
+ 86SR cG $Ice(K)=33 {I3}, Ice(L+M)=4.0 {I10} (1962Ya01)
+ 86SR cG $(1153|g)(1077|g)(|q) measured in 2020Gu18 agrees with 4|)2|)0
+ 86SR2cG spin sequence, with mult=Q (or E2) for both the transitions
+ 86SR cG $(1153|g)(1077|g)(|q): A{-2}=+0.089 {I15}, A{-4}=+0.01 {I3} (1984Ak02)
+ 86SR cG $(1153|g)(1077|g)(|q): A{-2}=+0.107 {I13}, A{-4}=+0.006 {I20}
+ 86SR2cG (1970Ar03)
+ 86SR cG $(1153|g)(1077|g)(|q): A{-2}=+0.093 {I13}, A{-4}=+0.154 {I24}
+ 86SR2cG (1965Va02)
+ 86SR cG $(1153|g)(1077|g)(|q): A{-2}=+0.097 {I17}, A{-4}=+0.005 {I40}
+ 86SR2cG (1962Ya01)
+ 86SR  L 2481.48    5 3-                0.90 PS  7
+ 86SR  E             2.8      71.0     6 7.60    10             3.8        9
+ 86SRS E EAV=766 6$CK=0.231 7$CL=0.0276 9$CM+=0.00624 17
+ 86SR  G 251.86    8  0.482  12 E1                     0.0069210             C
+ 86SR2 G %IG=0.398 12
+ 86SR2 G EKC=0.0040 8 (1970Ra06)
+ 86SRS G  KC=0.00612 9$LC=0.000667 9$MC=0.0001115 16
+ 86SRS G  NC=1.389E-5 19$OC=8.75E-7 12
+ 86SR cG $E|g=252.05 {I13}, I|g=0.45 {I2}, Ice(K)=4.2 {I8} (1970Ra06)
+ 86SR cG $E|g=251.5 {I15}, I|g=0.31 {I3} (1969Ar25)
+ 86SR cG M$from |a(K) data in 1970Ra06.
+ 86SR  G 627.50    8  39.8   9  E1(+M2)   0.0076 LT    6.60E-410             C
+ 86SR2 G %IG=32.9 9
+ 86SR2 G EKC=0.00061 4 (1970Ra06) $ EKC=0.00058 8 (1970Ra06)
+ 86SR cG MR$|d(M2/E1)=+0.017 {I6} (2020Gu18) results in B(M2)(W.u.) too large;
+ 86SR2cG From B(M2)(W.u.)<1 from RUL, |d(M2/E1)<0.0076.
+ 86SRS G  KC=0.000586 8$LC=6.31E-5 9$MC=1.057E-5 15
+ 86SRS G  NC=1.326E-6 19$OC=8.60E-8 12
+ 86SR cG $E|g=627.72 {I10}, I|g=39.5 {I12}, Ice(K)=56 {I3} (1970Ra06)
+ 86SR cG $E|g=627.7 {I15}, I|g=35.1 {I22} (1969Ar25)
+ 86SR cG $Ice(K)=42 {I2} (1962Ya01)
+ 86SR cG $(628|g)(1854|g)(|q): A{-2}=-0.123 {I10}, A{-4}=+0.02 {I1} (1984Ak02)
+ 86SR cG $(628|g)(777|g)(|q): A{-2}=-0.129 {I5}, A{-4}=-0.041 {I9} (1984Ak02)
+ 86SR cG $(628|g)[777|g](1077|g)(|q): A{-2}=-0.049 {I21}, A{-4}=+0.005 {I20}
+ 86SRxcG (1984Ak02)
+ 86SR cG $(628|g)[777|g](1077|g)(|q): A{-2}=-0.004 {I24}, A{-4}=+0.044 {I38}
+ 86SR2cG (1970Ar03)
+ 86SR  G 1405.01   11 0.310  10                                              C
+ 86SR2 G %IG=0.256 9
+ 86SR cG $E|g=1404.8 {I4}, I|g=0.22 {I6} (1970Ra06)
+ 86SR  G 2481.30   10 0.179  6  [E3]                   4.95E-4 7             C
+ 86SR2 G %IG=0.148 6
+ 86SRS G  KC=0.0001327 19$LC=1.424E-5 20$MC=2.390E-6 33
+ 86SRS G  NC=3.01E-7 4$OC=1.981E-8 28$IPC=0.000345 5
+ 86SR cG $E|g=2482.08 {I17}, I|g=0.14 {I1} (1970Ra06)
+ 86SR cG $E|g=2485 {I2}, I|g=0.2 {I1} (1969Ar25)
+ 86SR  L 2641.15   5  2+                87 FS    19
+ 86SR  E             0.004   LT0.006   LT11.2    GT             0.01      LT 1U?
+ 86SRS E EAV=718 6$CK=0.535 10$CL=0.0645 12$CM+=0.01463 25
+ 86SR  G 1564.48   8  0.140  15  M1+E2   -0.49   22    3.19E-4 5             C
+ 86SR2 G %IG=0.116 13
+ 86SRS G  KC=0.0001992 28$LC=2.131E-5 30$MC=3.57E-6 5
+ 86SRS G  NC=4.50E-7 6$OC=2.97E-8 4$IPC=9.39E-5 31
+ 86SR cG $E|g=1564.4 {I5}, I|g=0.22 {I6} (1970Ra06, uncertain assignment to
+ 86SR2cG {+86}Y decay)
+ 86SR cG MR$From Adopted Levels, Gammas, based on |g|g(|q) in {+87}Rb(p,2n|g)
+ 86SR2cG (2017Du08).
+ 86SR  G 2641.15   8  0.226  25 E2                     7.01E-410             C
+ 86SR2 G %IG=0.187 21
+ 86SRS G  KC=7.57E-5 11$LC=8.04E-6 11$MC=1.348E-6 19
+ 86SR cG $E|g=2641.9 {I4}, I|g=0.20 {I5} (1970Ra06)
+ 86SR cG $E|g=2643 {I2}, I|g=0.26 {I8} (1969Ar25)
+ 86SRS G  NC=1.698E-7 24$OC=1.123E-8 16$IPC=0.000616 9
+ 86SR  L 2672.44    5 5-                5 NS     LT
+ 86SR  E             3.42    40 1.78   45 7.29    5             5.2        6
+ 86SRS E EAV=679 6$CK=0.299 9$CL=0.0356 11$CM+=0.00806 21
+ 86SR cE $Measured E|b=1603 {I20} (1965Va02), 1600 {I50} (1962Ya01).
+ 86SR2cE I|b=6.3 (1965Va02), 5.8 (1962Ya01)
+ 86SR  G 190.81    11 1.074  25 E2                     0.0957 14             C
+ 86SR2 G %IG=0.888 26
+ 86SR2 G EKC=0.098 7 (1970Ra06)
+ 86SRS G  KC=0.0829 12$LC=0.01071 15$MC=0.001800 26
+ 86SRS G  NC=0.0002162 31$OC=1.134E-5 16
+ 86SR cG $E|g=190.80 {I13}, I|g=1.23 {I4}, Ice(K)=280 {I20} (1970Ra06)
+ 86SR cG $E|g=190.0 {I5}, I|g=1.6 {I3} (1969Ar25)
+ 86SR cG M$from |a(K) data in 1970Ra06.
+ 86SR  G 442.84    8  18.7   6  E1+M2    +0.019  10    1.53E-3 2             C
+ 86SR2 G %IG=15.5 6
+ 86SR2 G EKC=0.00129 8 (1970Ra06)$
+ 86SR cG $K/LM=9.1 {I15} (1962Ya01)
+ 86SRS G  KC=0.001352 19$LC=0.0001462 21$MC=2.450E-5 35
+ 86SRS G  NC=3.07E-6 4$OC=1.971E-7 28
+ 86SR cG $E|g=443.13 {I10}, I|g=20.48 {I59}, Ice(K)=61.5 {I35} (1970Ra06)
+ 86SR cG $E|g=442 {I1}, I|g=21.8 {I12} (1969Ar25)
+ 86SR cG $Ice(K)=54 {I5}, Ice(L+M)=5.9 {I10} (1962Ya01)
+ 86SR cG $(443|g)(1153|g)(|q): A{-2}=-0.017 {I9}, A{-4}=+0.008 {I16} (1984Ak02)
+ 86SR cG $(443|g)[1153|g](1077|g)(|q): A{-2}=-0.016 {I13}, A{-4}=+0.001 {I22}
+ 86SR2cG (1984Ak02)
+ 86SR cG $(443|g)[1153|g](1077|g)(|q): A{-2}=-0.012 {I18}, A{-4}=-0.005 {I29}
+ 86SR2cG (1970Ar03)
+ 86SR  G 1595.93   12 0.322  10 E3                     4.33E-4 6             C
+ 86SR2 G %IG=0.266 9
+ 86SRS G  KC=0.000336 5$LC=3.67E-5 5$MC=6.16E-6 9
+ 86SRS G  NC=7.74E-7 11$OC=5.02E-8 7$IPC=5.29E-5 7
+ 86SR  L 2787.30    8 2+                 25 FS   12
+ 86SR  E             0.0349  30 0.079  8 9.957   38             0.114      9 1U
+ 86SRS E EAV=653 6$CK=0.605 10$CL=0.0731 12$CM+=0.01656 24
+ 86SR  G 1710.7    2  0.181  6   M1+E2   -0.26   13    3.36E-4 5             C
+ 86SR2 G %IG=0.150 6
+ 86SRS G  KC=0.0001678 24$LC=1.791E-5 25$MC=3.00E-6 4
+ 86SRS G  NC=3.79E-7 5$OC=2.506E-8 35$IPC=0.0001469 28
+ 86SR cG $E|g=1711.6 {I7}, I|g=0.21 {I4} (1970Ra06)
+ 86SR cG $E|g=1710 {I1}, I|g=0.20 {I5} (1969Ar25)
+ 86SR cG MR$From Adopted Levels, Gammas, based on |g|g(|q) in {+87}Rb(p,2n|g)
+ 86SR2cG (2017Du08).
+ 86SR  G 2787.3    2  0.070  7  E2                     7.60E-411             C
+ 86SR2 G %IG=0.058 6
+ 86SRS G  KC=6.91E-5 10$LC=7.33E-6 10$MC=1.229E-6 17
+ 86SRS G  NC=1.549E-7 22$OC=1.025E-8 14$IPC=0.000683 10
+ 86SR cG $E|g=2790.0 {I10}, I|g=0.013 {I7} (1970Ra06)
+ 86SR  L 2856.62   8  6+                5 NS     LT
+ 86SR  E             0.013   13 0.037  48 10.2   GT             0.05       5 1U?
+ 86SRS E EAV=622 6$CK=0.637 10$CL=0.0771 12$CM+=0.01747 23
+ 86SR  G 627.23    15 0.78   5  E2                     1.90E-3 3             C
+ 86SR2 G %IG=0.64 4
+ 86SRS G  KC=0.001678 24$LC=0.0001874 26$MC=3.15E-5 4
+ 86SRS G  NC=3.92E-6 5$OC=2.461E-7 34
+ 86SR  L 2877.90   5  3+                110 FS   +53-49
+ 86SR cL J$|g|g(|q) (2020Gu18) gives J=3 and rejects J=4
+ 86SR  E             0.44    17 0.36   25 7.91   16             0.80      30
+ 86SRS E EAV=587 6$CK=0.393 11$CL=0.0469 13$CM+=0.01062 26
+ 86SR  G 648.53    8  0.424  12                                              C
+ 86SR2 G %IG=0.350 12
+ 86SR cG $E|g=648.6 {I10}, I|g: very weak (1970Ra06)
+ 86SR  G 1023.94   8  4.7    3  M1+E2    +0.42   3     5.35E-4 7             C
+ 86SR2 G %IG=3.88 26
+ 86SR2 G EKC=0.00041 4 (1970Ra06)
+ 86SRS G  KC=0.000474 7$LC=5.11E-5 7$MC=8.58E-6 12
+ 86SRS G  NC=1.080E-6 15$OC=7.10E-8 10
+ 86SR cG $E|g=1024.04 {I10}, I|g=4.6 {I2}, Ice(K)=4.4 {I4} (1970Ra06)
+ 86SR cG $E|g=1024 {I1}, I|g=4.9 {I11} (1969Ar25)
+ 86SR cG $Ice(K)=5.2 {I10} (1962Ya01)
+ 86SR cG $(1023|g)(1854|g)(|q) measured in 2020Gu18 agrees with 3|)2|)0
+ 86SR2cG spin sequence, not with 4|)2|)0
+ 86SR  G 1801.23   8  2.15   6  M1+E2    +7.2    13    3.82E-4 5             C
+ 86SR2 G %IG=1.78 6
+ 86SR2 G EKC=0.00013 4 (1970Ra06)
+ 86SRS G  KC=0.0001503 21$LC=1.608E-5 23$MC=2.70E-6 4
+ 86SRS G  NC=3.39E-7 5$OC=2.232E-8 31$IPC=0.0002130 30
+ 86SR cG $E|g=1801.70 {I10}, I|g=2.00 {I6}, Ice(K)=0.6 {I2} (1970Ra06)
+ 86SR cG $E|g=1801 {I2}, I|g=1.8 {I6} (1969Ar25)
+ 86SR cG $(1801|g)(1077|g)(|q) measured in 2020Gu18 agrees with 3|)2|)0
+ 86SR2cG spin sequence, not with 4|)2|)0
+ 86SR  L 2996.81    5 3-
+ 86SR cL $An 1142.3 {I10} |g with I|g=0.12 {I4} in 1970Ra06 with uncertain
+ 86SR2cL assignment to {+86}Y decay and placed tentatively from 2997 level is
+ 86SR3cL not confirmed by 2020Gu18 from |g|g-coin data, with an upper limit of
+ 86SR4cL intensity stated as <0.0083.
+ 86SR  E             10.39   45 11.5    5 6.361  19             21.9       7
+ 86SRS E EAV=534 6$CK=0.458 12$CL=0.0547 14$CM+=0.01239 28
+ 86SR cE $Measured E|b=1248 {I15} (1965Va02), 1180 {I60} (1962Ya01);
+ 86SR2cE I|b=14.0 (1965Va02), 18 (1962Ya01)
+ 86SR  G 355.67    8  0.315  10 [E1]                   0.00269 4             C
+ 86SR2 G %IG=0.260 9
+ 86SR cG $E|g=355.07 {I26}, I|g=0.12 {I3} (1970Ra06)
+ 86SR  G 515.3     1  3.78   12 M1,E2                  0.0029  5             C
+ 86SR2 G %IG=3.12 11
+ 86SR2 G EKC=0.0026 5 (1970Ra06)$
+ 86SR cG $K/LM=8.6 {I20} (1962Ya01)
+ 86SRS G  KC=0.0026 4$LC=0.00029 5$MC=4.8E-5 8
+ 86SRS G  NC=6.0E-6 10$OC=3.8E-7 5
+ 86SR cG $E|g=515.18 {I20}, I|g=5.93 {I17}, Ice(K)=36 {I7} (1970Ra06)
+ 86SR cG $Ice(K)=36 {I3}, Ice(L+M)=4.2 {I10} (1962Ya01)
+ 86SR cG M$from |a(K)exp in 1970Ra06.
+ 86SR  G 767.20    10 1.85   6                                               C
+ 86SR2 G %IG=1.53 6
+ 86SR cG $E|g=767.63 {I13}, I|g=2.9 {I4} from |g|g-coin (1970Ra06)
+ 86SR cG $E|g=769 {I1}, I|g=3.4 {I14} (1969Ar25)
+ 86SR  G 1920.12   8  26.4   6  E1+M2    +0.035  4     6.47E-4 9             C
+ 86SR2 G %IG=21.8 6
+ 86SR2 G EKC=0.000072 14 (1970Ra06)
+ 86SRS G  KC=7.26E-5 10$LC=7.69E-6 11$MC=1.288E-6 18
+ 86SR cG $E|g=1920.72 {I13}, I|g=25.2 {I8}, Ice(K)=4.2 {I8} (1970Ra06)
+ 86SR cG $E|g=1920 {I1}, I|g=30 {I2} (1969Ar25)
+ 86SR cG $Ice(K)=6.5 {I5} (1962Ya01)
+ 86SR cG $(1921|g)(1077|g)(|q): A{-2}=-0.120 {I23}, A{-4}=+0.03 {I5} (1984Ak02)
+ 86SR cG $(1921|g)(1077|g)(|q): A{-2}=+0.041 {I8}, A{-4}=+0.019 {I20} (1975Be59)
+ 86SR cG $(1921|g)(1077|g)(|q): A{-2}=-0.008 {I32}, A{-4}=-0.046 {I50}
+ 86SR2cG (1970Ar03)
+ 86SR cG $(1921|g)(1077|g)(|q): A{-2}=-0.073 {I11}, A{-4}=+0.005 {I21}
+ 86SR2cG (1965Va02)
+ 86SR cG $(1921|g)(1077|g)(|q): A{-2}=-0.074 {I13}, A{-4}=+0.05 {I3} (1962Ya01)
+ 86SRS G  NC=1.622E-7 23$OC=1.071E-8 15$IPC=0.000566 8
+ 86SR  G 2997.02   20 0.0457 28   E3                   6.42E-4 9             C
+ 86SR2 G %IG=0.0378 24
+ 86SRS G  KC=9.23E-5 13$LC=9.86E-6 14$MC=1.653E-6 23
+ 86SRS G  NC=2.083E-7 29$OC=1.376E-8 19$IPC=0.000538 8
+ 86SR cG $E|g=2997.6 {I5}, I|g=0.010 {I5} (1970Ra06)
+ 86SR  L 3055.45    6 5-                 5 NS    LT
+ 86SR  E             0.40    7 0.52    14 7.68    8             0.92      16
+ 86SRS E EAV=508 6$CK=0.493 12$CL=0.0589 15$CM+=0.01334 29
+ 86SR  G 382.76    14 3.03   10  M1+E2   -0.09   6     0.00498 9             C
+ 86SR2 G %IG=2.50 9
+ 86SRS G  KC=0.00440 8$LC=0.000485 9$MC=8.15E-5 15
+ 86SR cG $E|g=382.86 {I23}, I|g=4.40 {I14} (1970Ra06)
+ 86SRS G  NC=1.023E-5 18$OC=6.65E-7 11
+ 86SR  G 825.83    13 4.40   12 E1(+M2)  -0.01   3     3.64E-4 6             C
+ 86SR2 G %IG=3.64 12
+ 86SR2 G EKC=0.00032 11 (1970Ra06)
+ 86SRS G  KC=0.000323 5$LC=3.46E-5 6$MC=5.81E-6 9
+ 86SR cG $E|g=826.02 {I13}, I|g=4.0 {I1}, Ice(K)=3 {I1} (1970Ra06)
+ 86SR cG $E|g=827.0 {I5}, I|g=4.1 {I18} (1969Ar25)
+ 86SR cG $(826|g)(1153|g)(|q): A{-2}=-0.060 {I16}, A{-4}=+0.11 {I27} (1984Ak02)
+ 86SR cG $(826|g)[1153|g](1077|g)(|q): A{-2}=-0.066 {I21}, A{-4}=+0.01 {I4}
+ 86SRxcG (1984Ak02)
+ 86SRS G  NC=7.29E-7 12$OC=4.76E-8 8
+ 86SR  L 3133.50   10  (3,4+)
+ 86SR  E             0.0429  22 0.0701 33 8.520  20             0.1130    40
+ 86SRS E EAV=474 6$CK=0.541 12$CL=0.0646 15$CM+=0.01464 29
+ 86SR  G 2056.84   8  0.137   4                                              C
+ 86SR2 G %IG=0.113 4
+ 86SR cG $E|g=2058 {I12}, I|g=0.37 {I13} (1969Ar25)
+ 86SR  L 3175.50   10  (3,4+)
+ 86SR  E             0.0241  14 0.0449 26 8.696  23             0.0690    30
+ 86SRS E EAV=456 6$CK=0.567 12$CL=0.0678 15$CM+=0.01536 29
+ 86SR  G 2098.84   8  0.083   3                                              C
+ 86SR2 G %IG=0.0686 27
+ 86SR  L 3184.75    6 3-                5 NS     LT
+ 86SR cL J$previous assignment of J=3 confirmed in |g|g(|q) data (2020Gu18)
+ 86SR  E             3.22    25 6.3     5 6.548  31             9.5        6
+ 86SRS E EAV=451 6$CK=0.573 12$CL=0.0685 15$CM+=0.01551 29
+ 86SR cE $Measured E|b=1043 {I20}, I|b=4.6 (1965Va02)
+ 86SR  G 129.1     2  0.0428 12  [E2]                  0.399  6              C
+ 86SR2 G %IG=0.0354 12
+ 86SR  G 187.79    14 1.58   5 (M1)                    0.0297  4             C
+ 86SR2 G %IG=1.31 5
+ 86SR2 G EKC=0.021 4 (1970Ra06)$
+ 86SR cG $K/LM=5.7 {I6} (1962Ya01)
+ 86SRS G  KC=0.0262 4$LC=0.00295 4$MC=0.000496 7
+ 86SR cG $E|g=187.87 {I13}, I|g=1.53 {I5}, Ice(K)=73 {I15} (1970Ra06)
+ 86SR cG $E|g=187.8 {I5}, I|g=1.2 {I4} (1969Ar25)
+ 86SR cG $Ice(K)=113 {I10}, Ice(L+M)=20 {I2} (1962Ya01) for 181-keV transition
+ 86SRS G  NC=6.21E-5 9$OC=3.99E-6 6
+ 86SR cG M$E1 or M1 from |a(K) data in 1970Ra06; |DJ|p requires M1.
+ 86SR  G 306.76    8  4.04   12  E1+M2   -0.08   3     0.0042120             C
+ 86SR2 G %IG=3.34 11
+ 86SR2 G EKC=0.0040 4 (1970Ra06)
+ 86SRS G  KC=0.00373 17$LC=0.000407 21$MC=6.82E-5 35
+ 86SRS G  NC=8.5E-6 4$OC=5.40E-7 27
+ 86SR cG $E|g=307.00 {I10}, I|g=4.2 {I1}, Ice(K)=39.5 {I35} (1970Ra06)
+ 86SR cG $E|g=306.5 {I5}, I|g=3.4 {I5} (1969Ar25)
+ 86SR  G 512.42    8  2.56   8                                               C
+ 86SR2 G %IG=2.12 8
+ 86SR cG $E|g=512.42 {I16} (from level-energy difference), I|g: very weak
+ 86SR2cG (1970Ra06)
+ 86SR  G 703.12    8  18.9   5  M1+E2    +0.54   21    1.25E-3 3             C
+ 86SR2 G %IG=15.6 5
+ 86SR2 G EKC=0.00099 5 (1970Ra06)$
+ 86SR cG $K/LM=8.9 {I16} (1962Ya02)
+ 86SRS G  KC=0.001104 27$LC=0.0001203 33$MC=2.02E-5 5
+ 86SR cG $E|g=703.33 {I10}, I|g=18.7 {I5}, Ice(K)=43 {I2} (1970Ra06)
+ 86SR cG $E|g=703.8 {I5}, I|g=18.7 {I43} (1969Ar25)
+ 86SR cG $Ice(K)=49 {I2}, Ice(L+M)=5.5 {I10} (1962Ya01)
+ 86SR cG $(703|g)(628|g)(|q): A{-2}=-0.088 {I4}, A{-4}=-0.024 {I9} (1984Ak02)
+ 86SRS G  NC=2.54E-6 7$OC=1.65E-7 4
+ 86SR cG MR$Others: 0.14, from |a(K)=0.00107 (1965Va02). From |a(K)=0.00099
+ 86SR2cG {i5} (1970Ra06) and K/LM=8.9 {i16} (1962Ya02), |d |? 0.
+ 86SR  G 955.22    9  1.42   5                                               C
+ 86SR2 G %IG=1.17 5
+ 86SR cG $E|g=955.35 {I20}, I|g=1.26 {I5} (1970Ra06)
+ 86SR cG $E|g=955.3 {I5}, I|g=1.0 {I7} (1969Ar25)
+ 86SR  G 2108.22   12 0.090  4                                               C
+ 86SR2 G %IG=0.0744 35
+ 86SR cG $E|g=2108.87 {I33}, I|g=0.06 {I1} (1970Ra06)
+ 86SR cG $E|g=2110 {I2}, I|g=0.05 {I2} (1969Ar25)
+ 86SR  L 3290.88    6 6-                  5 NS   LT
+ 86SR cL $An 503.0 {I4} |g with I|g=0.11 {I4} in 1970Ra06, placed from
+ 86SR2cL 3291 level is not confirmed by 2020Gu18 from |g|g-coin data
+ 86SR  E             0.0046  39 0.06    5 9.7    GT             0.06       5 1U?
+ 86SR cE $This |e decay branch is highly unlikely for |DJ=2, |D|p=no
+ 86SRS E EAV=430 6$CK=0.8027 49$CL=0.0976 6$CM+=0.02215 16
+ 86SR  G 235.23    10 0.49   3 M1+E2                   0.031  14             C
+ 86SR2 G %IG=0.405 26
+ 86SRS G  KC=0.027 12$LC=0.0033 16$MC=5.5E-4 27
+ 86SRS G  NC=6.7E-5 32$OC=3.9E-6 16
+ 86SR cG $E|g=235.37 {I23}, I|g=0.48 {I2} (1970Ra06)
+ 86SR cG $E|g=234.0 {I5}, I|g=0.35 {I5} (1969Ar25)
+ 86SR  G 434.21    8  0.147  22 E1+M2    -0.39   +26-320.0031 23             C
+ 86SR2 G %IG=0.122 18
+ 86SRS G  KC=0.0027 20$LC=3.1E-4 24$MC=5.E-5 4
+ 86SRS G  NC=6.E-6 5$OC=4.1E-7 32
+ 86SR cG MR$From Adopted Levels, Gammas, based on |g|g(|q) in {+87}Rb(p,2n|g)
+ 86SR2cG (2017Du08).
+ 86SR  G 618.45    8  0.225  20M1+E2                   0.0017919             C
+ 86SR2 G %IG=0.186 17
+ 86SRS G  KC=0.00158 16$LC=0.000175 20$MC=2.94E-5 34
+ 86SR cG $E|g=618.24 {I40}, I|g=0.26 {I4} (1970Ra06)
+ 86SRS G  NC=3.7E-6 4$OC=2.35E-7 21
+ 86SR  L 3317.54    6 4-
+ 86SR cL J$from |g|g(|q) data (2020Gu18) which agree with J=4 not J=5
+ 86SR  E             1.52    9 4.70    15 6.613  18              6.22     18
+ 86SRS E EAV=393 6$CK=0.656 12$CL=0.0785 14$CM+=0.01779 28
+ 86SR  G 132.6     2  0.262  10 [M1+E2]                 0.22  15             C
+ 86SR2 G %IG=0.217 9
+ 86SR cG $E|g=132.34 {I10}, I|g=0.20 {I1} (1970Ra06)
+ 86SR  G 439.59    12 1.03   3                                               C
+ 86SR2 G %IG=0.851 29
+ 86SR cG $E|g=439.5 {I3}, I|g=0.24 {I8} (1970Ra06)
+ 86SR  G 644.98    9  3.14   10(M1+E2)   0.27    6     1.48E-3 2             C
+ 86SR2 G %IG=2.60 9
+ 86SR cG $K/LM=9.0 {I22} (1962Ya01)
+ 86SRS G  KC=0.001312 20$LC=0.0001428 22$MC=2.40E-5 4
+ 86SRS G  NC=3.01E-6 5$OC=1.970E-7 29
+ 86SR cG $E|g=644.82 {I24} from level-energy difference, I|g=2.65 {I40} from
+ 86SR2cG |g|g-coin, Ice(K)=37.5 {I25} for 644.82|g+645.87|g, the latter being
+ 86SR3cG about four times more intense than the 644.82|g, |a(K)exp=0.00117 {I8}
+ 86SR4cG for the doublet (1970Ra06)
+ 86SR cG $Ice(K)=34 {I2}, Ice(L+M)=3.8 {I10} (1962Ya01)
+ 86SR cG M,MR$+0.27 {I6} or -1.2 {I3} from |g|g(|q) data in 1984Ak02.
+ 86SR cG $(645|g)(443|g)(|q): A{-2}=+0.146 {I10}, A{-4}=-0.021 {I17} (1984Ak02)
+ 86SR cG $(645|g)[443|g](1153|g)(|q): A{-2}=+0.103 {I20}, A{-4}=+0.005 {I33}
+ 86SR2cG (1984Ak02)
+ 86SR  G 835.94    8  5.01   15 M1+E2    +1.0    4     8.57E-420             C
+ 86SR2 G %IG=4.14 14
+ 86SR2 G EKC=0.00064 5 (1970Ra06)
+ 86SRS G  KC=0.000758 17$LC=8.26E-5 22$MC=1.39E-5 4
+ 86SRS G  NC=1.74E-6 4$OC=1.129E-7 23
+ 86SR cG $E|g=835.67 {I22} from level-energy difference, I|g=5.3 {I7} from
+ 86SR2cG |g|g-coin, Ice(K)=10.5 {I7} for 833.7|g+835.6|g (1970Ra06)
+ 86SR cG $E|g=837.0 {I5}, I|g=5 {I1} (1969Ar25)
+ 86SR cG $Ice(K)=14 {I2} (1962Ya01)
+ 86SR cG $(836|g)(627|g)(|q) measured in 2020Gu18 agrees with 4|)3|)2
+ 86SR2cG spin sequence, not with 5|)3|)2
+ 86SR  G 1088.08   16 0.163  6                                               C
+ 86SR2 G %IG=0.135 5
+ 86SR cG $E|g=1087.6 {I5}, I|g=0.05 {I1} (1970Ra06)
+ 86SR  L 3361.39    6 4+
+ 86SR  E             0.097    6 0.350  12 7.719  19             0.447     14
+ 86SRS E EAV=374 6$CK=0.683 11$CL=0.0817 13$CM+=0.01851 27
+ 86SR  G 688.76    11 0.120  4 E1                      5.36E-4 8             C
+ 86SR2 G %IG=0.099 4
+ 86SRS G  KC=0.000475 7$LC=5.11E-5 7$MC=8.56E-6 12
+ 86SRS G  NC=1.074E-6 15$OC=6.98E-8 10
+ 86SR cG $E|g=689.29 {I25}, I|g=0.21 {I4} (1970Ra06)
+ 86SR  G 1131.85   15 0.171  5  M1+E2    +0.22   11    4.34E-4 6             C
+ 86SR2 G %IG=0.141 5
+ 86SRS G  KC=0.000383 5$LC=4.12E-5 6$MC=6.91E-6 10
+ 86SRS G  NC=8.71E-7 12$OC=5.74E-8 8$IPC=1.348E-6 30
+ 86SR cG $E|g=1133.3 {I10}, I|g=0.36 {I3} (1970Ra06)
+ 86SR  G 1507.48   8  0.438  13 E2(+M3)  -0.03   15    3.27E-418             C
+ 86SR2 G %IG=0.362 12
+ 86SRS G  KC=0.000213 18$LC=2.29E-5 20$MC=3.84E-6 33
+ 86SRS G  NC=4.8E-7 4$OC=3.16E-8 27$IPC=8.71E-5 26
+ 86SR cG $E|g=1507.86 {I10}, I|g=0.43 {I5} (1970Ra06)
+ 86SR cG $E|g=1510 {I1}, I|g=0.3 {I1} (1969Ar25)
+ 86SR cG MR$From Adopted Levels, Gammas, based on |g|g(|q) in {+87}Rb(p,2n|g)
+ 86SR2cG (2017Du08).
+ 86SR  G 2284.61   18 0.0279 11                                              C
+ 86SR2 G %IG=0.0231 10
+ 86SR  L 3389.62   8  (2+,3,4+)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E             0.00274 40 0.0111 18 9.21    6             0.0138    18
+ 86SRS E EAV=362 6$CK=0.699 11$CL=0.0837 13$CM+=0.01896 26
+ 86SR  G 1535.81   15 0.0247 8                                               C
+ 86SR2 G %IG=0.0204 7
+ 86SR  G 2312.87   12 0.0493 15                                              C
+ 86SR2 G %IG=0.0408 14
+ 86SR cG $E|g=2314 {I3}, I|g=0.4 {I3} (1969Ar25, intensity in disagreement)
+ 86SR  L 3430.12   10 2+
+ 86SR  E             0.00176 17 0.0402 13 9.715  24             0.0420    13 1U
+ 86SRS E EAV=369 6$CK=0.8334 33$CL=0.10162 43$CM+=0.02307 14
+ 86SR  G 2353.7     2 0.0533 15                                              C
+ 86SR2 G %IG=0.0441 14
+ 86SR  G 3429.94   20 0.0008910 E2                     1.01E-3 1             C
+ 86SR2 G %IG=0.00074 8
+ 86SRS G  KC=4.92E-5 7$LC=5.20E-6 7$MC=8.72E-7 12
+ 86SRS G  NC=1.099E-7 15$OC=7.29E-9 10$IPC=0.000954 13
+ 86SR  L 3490.86   10 (3,4+)
+ 86SR  E             0.0125  11 0.0795 38 8.299  23             0.0920    40
+ 86SRS E EAV=318 6$CK=0.753 9$CL=0.0902 11$CM+=0.02044 23
+ 86SR  G 1261.09   18 0.0555 15  D+Q     -0.26   24                          C
+ 86SR2 G %IG=0.0459 15
+ 86SR cG MR$From Adopted Levels, Gammas, based on |g|g(|q) in {+87}Rb(p,2n|g)
+ 86SR2cG (2017Du08).
+ 86SR  G 1636.9    2  0.0602 15                                              C
+ 86SR2 G %IG=0.0498 15
+ 86SR  G 2414.17   14 0.041  2                                               C
+ 86SR2 G %IG=0.0339 17
+ 86SR  L 3499.53   6   4-
+ 86SR cL J$from |g|g(|q) (2020Gu18)
+ 86SR  E             0.042    6 0.286  40 7.74    6             0.328     40
+ 86SRS E EAV=314 6$CK=0.757 9$CL=0.0907 11$CM+=0.02055 22
+ 86SR  G 181.77    11 0.118  4  [M1+E2]                 0.07  4              C
+ 86SR2 G %IG=0.098 4
+ 86SR cG $E|g=182.34 {I20}, I|g=0.13 {I4} (1970Ra06, uncertain assignment to
+ 86SR2cG {+86}Y decay)
+ 86SR  G 443.70    25 0.977  25                                              C
+ 86SR2 G %IG=0.808 25
+ 86SR cG $E|g=444.18 {I23}, I|g=0.78 {I20} from |g|g-coin (1970Ra06)
+ 86SR  G 1018.05   12 0.256  10                                              C
+ 86SR2 G %IG=0.212 9
+ 86SR cG $E|g=1017.93 {I23}, I|g=0.22 {I14} (1970Ra06)
+ 86SR  G 1270.05   10 0.780  20 E1(+M2)  -0.05   9     2.51E-4 9             C
+ 86SR2 G %IG=0.645 24
+ 86SRS G  KC=0.000144 9$LC=1.53E-5 10$MC=2.57E-6 16
+ 86SRS G  NC=3.23E-7 20$OC=2.12E-8 13$IPC=8.93E-5 19
+ 86SR cG $E|g=1270.16 {I13}, I|g=0.79 {I12} (1970Ra06)
+ 86SR cG $E|g=1273 {I1}, I|g=0.56 {I21} (1969Ar25)
+ 86SR cG $(1270|g)(1153|g)(|q) measured in 2020Gu18 agrees with 4|)4|)2
+ 86SR2cG spin sequence
+ 86SR  L 3555.40    6 (5+)
+ 86SR cL J$(5) in 2020Gu18
+ 86SR  E             0.133   12 1.171  38 7.097  19             1.304     40
+ 86SRS E EAV=291 6$CK=0.783 8$CL=0.0938 9$CM+=0.02126 20
+ 86SR cE $Measured E|b=650 {I60}, I|b=2.4 (1962Ya01)
+ 86SR  G 237.68    10 0.154  5  [E1]                   0.0081512             C
+ 86SR2 G %IG=0.127 5
+ 86SR cG $E|g=237.9 {I3}, I|g=0.16 {I3} (1970Ra06)
+ 86SR  G 264.29    10 0.54   3  [E1]                   0.0064 9              C
+ 86SR2 G %IG=0.446 26
+ 86SR cG $E|g=264.53 {I13}, I|g=0.65 {I3} (1970Ra06)
+ 86SR cG $E|g=263.0 {I6}, I|g=0.63 {I21} (1969Ar25)
+ 86SR  G 698.84    8  0.575  16                                              C
+ 86SR2 G %IG=0.475 15
+ 86SR  G 882.93    8  0.497  15                        3.18E-4               C
+ 86SR2 G %IG=0.411 14
+ 86SR cG $E|g=882.96 {I17}, I|g=0.3 {I1} (1970Ra06)
+ 86SRS G  KC=0.000282 4$LC=3.02E-5 5$MC=5.06E-6 7
+ 86SRS G  NC=6.36E-7 9$OC=4.15E-8 6
+ 86SR  G 1325.93   15 0.0115 5                                               C
+ 86SR2 G %IG=0.0095 4
+ 86SR  L 3644.44    6 3-
+ 86SR cL J$(3-) in 2020Gu18
+ 86SR  E             0.334   35 4.92    9 6.426  17             5.25      10
+ 86SRS E EAV=252 6$CK=0.816 6$CL=0.0979 7$CM+=0.02219 17
+ 86SR  G 144.8     1  0.0155 10 [M1+E2]                0.16   11             C
+ 86SR2 G %IG=0.0128 9
+ 86SR cG $E|g=144.5 {I3}, I|g=0.038 {I4} (1970Ra06)
+ 86SR  G 214.37    12 0.0034012  [E1]                  0.0109316             C
+ 86SR2 G %IG=0.00281 11
+ 86SR  G 857.11    8  0.103  4                                               C
+ 86SR2 G %IG=0.085 4
+ 86SR  G 1163.03   8  1.56   5 M1+E2(+E0)              4.14E-4 6             C
+ 86SR2 G %IG=1.29 5
+ 86SR2 G EKC=0.0014 8 (1970Ra06)
+ 86SRS G  KC=0.000364 5$LC=3.92E-5 6$MC=6.58E-6 11
+ 86SRS G  NC=8.27E-7 13$OC=5.42E-8 8$IPC=3.4E-6 5
+ 86SR cG $E|g=1163.03 {I10}, I|g=1.43 {I5}, Ice(K)=4.7 {I25} (1970Ra06)
+ 86SR cG $E|g=1164 {I1}, I|g=1.6 {I5} (1969Ar25)
+ 86SR cG $Ice(K)=4 {I2} (1962Ya01)
+ 86SR  G 1414.95   15 0.382  12                                              C
+ 86SR2 G %IG=0.316 11
+ 86SR cG $E|g=1415.20 {I23}, I|g=0.40 {I11} (1970Ra06)
+ 86SR cG $E|g=1416.5 {I15}, I|g=0.5 {I2} (1969Ar25)
+ 86SR cG $Ice(K)=0.7 {I5} (1962Ya01) for a 1428 line
+ 86SR  G 1790.57   12 1.45   4 E1+M2     -0.16   7     5.58E-4 9             C
+ 86SR2 G %IG=1.20 4
+ 86SRS G  KC=8.6E-5 6$LC=9.1E-6 6$MC=1.53E-6 10
+ 86SRS G  NC=1.93E-7 13$OC=1.27E-8 8$IPC=0.000461 12
+ 86SR cG $E|g=1790.90 {I10}, I|g=1.21 {I5} (1970Ra06)
+ 86SR cG $E|g=1791 {I2}, I|g=1.6 {I5} (1969Ar25)
+ 86SR cG M,MR$from |g|g(|q) in 1984Ak02.
+ 86SR cG $(1791|g)(1854|g)(|q): A{-2}=-0.20 {I5}, A{-4}=+0.06 {I9} (1984Ak02)
+ 86SR  G 2567.85   15 2.86   10 (E1+M2)  +0.187  14    1.03E-3 2             C
+ 86SR2 G %IG=2.36 9
+ 86SRS G  KC=5.02E-5 8$LC=5.31E-6 9$MC=8.90E-7 15
+ 86SRS G  NC=1.121E-7 19$OC=7.42E-9 12$IPC=0.000972 14
+ 86SR cG $E|g=2567.97 {I18}, I|g=2.73 {I13} (1970Ra06)
+ 86SR cG $E|g=2568 {I1}, I|g=3.2 {I4} (1969Ar25)
+ 86SR cG $Ice(K)=0.6 {I5} (1962Ya01) for 2580 keV
+ 86SR cG M,MR$from |g|g(|q) in 1984Ak02.
+ 86SR cG $(2568|g)(1077|g)(|q): A{-2}=+0.08 {I4}, A{-4}=-0.03 {I7} (1984Ak02)
+ 86SR cG $(2568|g)(1077|g)(|q): A{-2}=+0.065 {I9}, A{-4}=+0.002 {I10} (1975Be59)
+ 86SR  L 3686.41    6 3-
+ 86SR  E             0.083   10 1.62    6 6.885  22             1.70       6
+ 86SRS E EAV=234 6$CK=0.8289 49$CL=0.0995 6$CM+=0.02255 16
+ 86SR  G 1204.87   10 0.084  9                                               C
+ 86SR2 G %IG=0.069 8
+ 86SR  G 1457.02   10 0.113  4                                               C
+ 86SR2 G %IG=0.093 4
+ 86SR cG $E|g=1460 {I1}, I|g=0.3 (1969Ar25)
+ 86SR  G 1832.27   14 0.183  8                                               C
+ 86SR2 G %IG=0.151 7
+ 86SR  G 2609.76   8  1.69   6  E1+M2    +0.040  18    1.07E-3 2             C
+ 86SR2 G %IG=1.40 5
+ 86SRS G  KC=4.63E-5 7$LC=4.88E-6 7$MC=8.18E-7 12
+ 86SRS G  NC=1.031E-7 15$OC=6.82E-9 10$IPC=0.001018 14
+ 86SR cG $E|g=2610.11 {I20}, I|g=1.50 {I9} (1970Ra06)
+ 86SR cG $E|g=2611 {I1}, I|g=2.1 {I2} (1969Ar25)
+ 86SR  G 3686.5    3  0.0018010 [E3]                   8.53E-412             C
+ 86SR2 G %IG=0.00149 9
+ 86SRS G  KC=6.31E-5 9$LC=6.72E-6 9$MC=1.127E-6 16
+ 86SRS G  NC=1.420E-7 20$OC=9.41E-9 13$IPC=0.000782 11
+ 86SR  L 3765.15    6 (4)-              5 NS     LT
+ 86SR  E             0.301   42 10.55  16 6.023  18             10.85     17
+ 86SRS E EAV=201 6$CK=0.8473 34$CL=0.10182 43$CM+=0.02307 13
+ 86SR  G 121.0     2  0.00180 9  [M1+E2]                0.30  21             C
+ 86SR2 G %IG=0.00149 8
+ 86SR  G 209.68    11 0.0902 24  [E1]                  0.0116517             C
+ 86SR2 G %IG=0.0746 23
+ 86SR cG $E|g=209.80 {I23}, I|g=0.48 {I2} (1970Ra06, uncertain assignment to
+ 86SR2cG {+86}Y decay)
+ 86SR cG $E|g=209.0 {I5}, I|g=0.17 {I2} (1969Ar25)
+ 86SR  G 265.59    11 0.130  4  [M1+E2]                 0.021 9              C
+ 86SR2 G %IG=0.107 4
+ 86SR  G 375.52    10 0.0387 12                                              C
+ 86SR2 G %IG=0.0320 11
+ 86SR  G 403.75    10 0.0645 19                                              C
+ 86SR2 G %IG=0.0533 18
+ 86SR  G 447.61    8  0.206  8                                               C
+ 86SR2 G %IG=0.170 7
+ 86SR cG $E|g=448.10 {I2}, uncertainty is probably 0.20, I|g=0.09 {I3}
+ 86SR2cG (1970Ra06, uncertain assignment to {+86}Y decay)
+ 86SR  G 474.32    12 0.017  4                                               C
+ 86SR  G 580.32    8  5.81   15(M1)                    1.86E-3 3             C
+ 86SR2 G %IG=4.80 15
+ 86SR2 G EKC=0.00134 19 (1970Ra06)$
+ 86SR cG $K/LM=7.1 {I28} (1962Ya01)
+ 86SRS G  KC=0.001646 23$LC=0.0001791 25$MC=3.01E-5 4
+ 86SRS G  NC=3.78E-6 5$OC=2.477E-7 35
+ 86SR cG $E|g=580.57 {I10}, I|g=5.80 {I17}, Ice(K)=18.0 {I25} (1970Ra06)
+ 86SR cG $E|g=581.5 {I5}, I|g=5.90 {I55} (1969Ar25)
+ 86SR cG $Ice(K)=19 {I2}, Ice(L+M)=2.7 {I10} (1962Ya01)
+ 86SR cG M$from |a(K)exp (1970Ra06).
+ 86SR  G 709.69    8  3.54   10M1,E2                   0.001279              C
+ 86SR2 G %IG=2.93 10
+ 86SR2 G EKC=0.00102 27 (1970Ra06)
+ 86SR cG $E|g=709.90 {I10}, I|g=3.18 {I9}, Ice(K)=7.5 {I20} (1970Ra06)
+ 86SR cG $E|g=711.0 {I5}, I|g=1.8 {I12} (1969Ar25)
+ 86SR cG $Ice(K)=5.3 {I10} (1962Ya01)
+ 86SRS G  KC=0.00112 8$LC=0.000123 10$MC=2.07E-5 17
+ 86SRS G  NC=2.59E-6 20$OC=1.67E-7 10
+ 86SR cG M$from |a(K)exp (1970Ra06).
+ 86SR  G 768.15    15 0.997  25                                              C
+ 86SR2 G %IG=0.824 25
+ 86SR cG $E|g=768.25 {I16} from level-energy difference, I|g=0.39 {I13} from
+ 86SR2cG |g|g-coin (1970Ra06)
+ 86SR  G 887.33    8  0.698  21                                              C
+ 86SR2 G %IG=0.577 20
+ 86SR cG $E|g=887.40 {I17}, I|g=0.53 {I5} (1970Ra06)
+ 86SR cG $E|g=888, I|g=1.2 {I8} (1969Ar25)
+ 86SR  G 1092.61   8  1.06   3                                               C
+ 86SR2 G %IG=0.876 29
+ 86SR cG $E|g=1092.68 {I13}, I|g=0.84 {I5} (1970Ra06)
+ 86SR cG $E|g=1092 {I1}, I|g=0.99 {I26} (1969Ar25)
+ 86SR  G 1283.78   10 0.327  10                                              C
+ 86SR2 G %IG=0.270 9
+ 86SR cG $E|g=1283.96 {I13}, I|g=0.35 {I13} (1970Ra06)
+ 86SR cG $E|g=1283 {I1}, I|g=0.2 {I1} (1969Ar25)
+ 86SR  G 1535.70   10 0.120  4                                               C
+ 86SR2 G %IG=0.099 4
+ 86SR cG $E|g=1535.67 {I13}, I|g=0.14 {I4} (1970Ra06)
+ 86SR cG $E|g=1536 {I2}, I|g=0.3 {I1} (1969Ar25)
+ 86SR  L 3774.50    7 (4)+
+ 86SR cL J$(4) in 2020Gu18
+ 86SR  E             0.0180  26 0.682  15 7.208  19             0.700     15
+ 86SRS E EAV=197 6$CK=0.8491 32$CL=0.10204 41$CM+=0.02313 13
+ 86SR  G 718.95    15 0.231  9                                               C
+ 86SR2 G %IG=0.191 8
+ 86SR cG $E|g=719.17 {I23}, I|g=0.27 {I4} (1970Ra06)
+ 86SR  G 1102.13   10 0.194  8                                               C
+ 86SR2 G %IG=0.160 7
+ 86SR cG $E|g=1102.02 {I23}, I|g=0.24 {I3} (1970Ra06)
+ 86SR  G 1293.01   8  0.396  12                                              C
+ 86SR2 G %IG=0.327 11
+ 86SR cG $E|g=1294.9 {I3}, I|g=0.35 {I10} (1970Ra06, unplaced). Due to energy
+ 86SR2cG difference of ~2 keV, it could be different line in 1970Ra06
+ 86SR  G 1544.96   11 0.0294 10                                              C
+ 86SR2 G %IG=0.0243 9
+ 86SR  L 3806.24    7  (3-,4,5-)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E             0.0061  10 0.304  16 7.540  27             0.310     16
+ 86SRS E EAV=183 6$CK=0.8544 27$CL=0.10272 36$CM+=0.02328 13
+ 86SR  G 488.64    12 0.1084 26                                              C
+ 86SR2 G %IG=0.0896 26
+ 86SR  G 750.70    12 0.145  8                                               C
+ 86SR2 G %IG=0.120 7
+ 86SR  G 1133.72   12 0.201  8                                               C
+ 86SR2 G %IG=0.166 7
+ 86SR  G 1324.75   8  0.129  9                                               C
+ 86SR2 G %IG=0.107 8
+ 86SR  G 1576.75   11 0.0230 10                                              C
+ 86SR2 G %IG=0.0190 9
+ 86SR  L 3830.57    6 (3)-
+ 86SR cL J$(3-) in 2020Gu18
+ 86SR  E             0.231   39 14.58  30 5.844  18             14.81     30
+ 86SRS E EAV=173 6$CK=0.8579 23$CL=0.10317 32$CM+=0.02339 12
+ 86SR cE $Measured E|b=400 {I40}, I|b=2.9 (1962Ya01, tentative)
+ 86SR  G 186.2     2  0.0360 12 [M1+E2]                0.07   4              C
+ 86SR2 G %IG=0.0298 11
+ 86SR  G 275.05    12 0.0554 15 [M2]                   0.0526 8              C
+ 86SR2 G %IG=0.0458 15
+ 86SR  G 330.85    12 1.011  25 M1(+E2)  0.7     LT    0.0082 11             C
+ 86SR2 G %IG=0.836 25
+ 86SR2 G EKC=0.0068 13 (1970Ra06)
+ 86SRS G  KC=0.0072 10$LC=0.00081 12$MC=0.000136 21
+ 86SR cG $E|g=331.08 {I23}, I|g=1.01 {I3}, Ice(K)=16 {I3} (1970Ra06)
+ 86SR cG $E|g=329 {I1}, I|g=0.72 {I17} (1969Ar25)
+ 86SRS G  NC=1.70E-5 25$OC=1.07E-6 13
+ 86SR cG M,MR$from |a(K)exp (1970Ra06).
+ 86SR  G 469.04    10 0.1120 25                                              C
+ 86SR2 G %IG=0.0926 26
+ 86SR cG $E|g=469.24 {I25}, I|g=0.36 {I3} (1970Ra06)
+ 86SR  G 645.87    8  9.80   25(M1)                    1.46E-3 2             C
+ 86SR2 G %IG=8.10 25
+ 86SR2 G EKC=0.00117 8 (1970Ra06)$
+ 86SR cG $K/LM=9.0 {I22} (1962Ya01)
+ 86SRS G  KC=0.001291 18$LC=0.0001401 20$MC=2.353E-5 33
+ 86SRS G  NC=2.96E-6 4$OC=1.941E-7 27
+ 86SR cG $E|g=645.87 {I17} from level-energy difference, I|g=11.1 {I13} from
+ 86SR2cG |g|g-coin, Ice(K)=37.5 {I25} for 644.8|g+645.9|g (1970Ra06)
+ 86SR cG $E|g=645 {I1}, I|g=13.4 {I24} (1969Ar25)
+ 86SR cG $Ice(K)=34 {I2}, Ice(L+M)=3.8 {I10} (1962Ya01) for 644.8+645.9 doublet
+ 86SR  G 833.72    8  2.51   9                                               C
+ 86SR2 G %IG=2.07 8
+ 86SR cG $E|g=833.72 {I18} from level-energy difference, I|g=1.8 {I4} from
+ 86SR2cG |g|g-coin, Ice(K)=10.5 {I7} for 833.72|g+835.67|g, the latter being
+ 86SR3cG about three times more intense than the 833.72|g, |a(K)exp=0.00064 {I5}
+ 86SR4cG for the doublet (1970Ra06)
+ 86SR  G 952.71    8  0.254  10                                              C
+ 86SR2 G %IG=0.210 9
+ 86SR  G 1349.15   8  3.64   9  M1,E2                  3.36E-4 6             C
+ 86SR2 G %IG=3.01 9
+ 86SR2 G EKC=0.00024 4 (1970Ra06)
+ 86SRS G  KC=0.000267 4$LC=2.87E-5 4$MC=4.81E-6 7
+ 86SRS G  NC=6.05E-7 9$OC=3.98E-8 6$IPC=3.5E-5 4
+ 86SR cG $E|g=1349.15 {I10}, I|g=3.57 {I11}, Ice(K)=2.0 {I3} (1970Ra06)
+ 86SR cG $E|g=1350 {I2}, I|g=3.6 {I5} (1969Ar25)
+ 86SR cG $Ice(K)=3.4 {I5} (1962Ya01)
+ 86SR cG M$from |a(K)exp (1970Ra06).
+ 86SR  G 1601.05   8  0.339  10                                              C
+ 86SR2 G %IG=0.280 10
+ 86SR cG $E|g=1603 {I2}, I|g=0.5 (1969Ar25, uncertain assignment to {+86}Y
+ 86SR2cG decay)
+ 86SR  G 1976.71   8  0.0101 5                                               C
+ 86SR2 G %IG=0.0083 4
+ 86SR  G 2754.0    2  0.0404 20                                              C
+ 86SR2 G %IG=0.0334 17
+ 86SR  L 3870.98    7 3-
+ 86SR  E             0.0045   9 0.434  10 7.345  19             0.438     10
+ 86SRS E EAV=156 6$CK=0.8625 17$CL=0.10378 26$CM+=0.02353 12
+ 86SR  G 184.8     2  0.0053514  [M1+E2]               0.07   4              C
+ 86SR2 G %IG=0.00442 14
+ 86SR  G 481.32    14 0.0092 5                                               C
+ 86SR2 G %IG=0.0076 4
+ 86SR  G 1229.88   10 0.0272 11E1                      2.32E-4 3             C
+ 86SR2 G %IG=0.0225 10
+ 86SRS G  KC=0.0001508 21$LC=1.607E-5 22$MC=2.69E-6 4
+ 86SRS G  NC=3.39E-7 5$OC=2.224E-8 31$IPC=6.24E-5 9
+ 86SR  G 1641.62   15 0.0259 9                                               C
+ 86SR2 G %IG=0.0214 8
+ 86SR  G 2016.83   11 0.165  6 E1                      7.12E-410             C
+ 86SR2 G %IG=0.136 5
+ 86SRS G  KC=6.72E-5 9$LC=7.11E-6 10$MC=1.191E-6 17
+ 86SR cG $E|g=2017.1 {I6}, I|g=0.16 {I2} (1970Ra06)
+ 86SR cG $E|g=2017 {I1}, I|g=0.10 {I4} (1969Ar25)
+ 86SRS G  NC=1.500E-7 21$OC=9.91E-9 14$IPC=0.000636 9
+ 86SR  G 2794.29   12 0.296  9 E1                      1.17E-3 2             C
+ 86SR2 G %IG=0.245 9
+ 86SRS G  KC=4.19E-5 6$LC=4.42E-6 6$MC=7.41E-7 10
+ 86SR cG $E|g=2794.9 {I4}, I|g=0.25 {I2} (1970Ra06)
+ 86SR cG $E|g=2797 {I2}, I|g=0.3 {I1} (1969Ar25)
+ 86SRS G  NC=9.34E-8 13$OC=6.18E-9 9$IPC=0.001119 16
+ 86SR  G 3871.2    5  0.0014 LT[E3]                    9.08E-413
+ 86SR2 G %IG<0.0012
+ 86SRS G  KC=5.79E-5 8$LC=6.15E-6 9$MC=1.032E-6 14
+ 86SRS G  NC=1.301E-7 18$OC=8.62E-9 12$IPC=0.000843 12
+ 86SR cG $E|g=3868 {I5}, I|g|?0.15 (1969Ar25, uncertain assignment to {+86}Y
+ 86SR2cG decay, intensity is in disagreement with that from 2020Gu18)
+ 86SR  L 3898.28   21 (2+,3,4+)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E             1.52E-4 32 0.0202  8 8.658  24             0.0204     8
+ 86SRS E EAV=144 6$CK=0.8648 14$CL=0.10411 23$CM+=0.02360 12
+ 86SR  G 2821.6     2 0.0247  8                                              C
+ 86SR2 G %IG=0.0204 7
+ 86SR  L 3904.00    7 (3,4+)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E             5.0E-4  11 0.0718 18 8.105  21             0.0723    18
+ 86SRS E EAV=142 6$CK=0.8653 13$CL=0.10417 23$CM+=0.02361 12
+ 86SR  G 1674.55   8  0.0244 8                                               C
+ 86SR2 G %IG=0.0202 7
+ 86SR  G 2049.9    2  0.0098 10                                              C
+ 86SR2 G %IG=0.0081 8
+ 86SR  G 2827.28   8  0.0533 15                                              C
+ 86SR2 G %IG=0.0441 14
+ 86SR cG $E|g=2827.7 {I8}, I|g=0.07 {I2} (1970Ra06, unplaced |g)
+ 86SR cG $E|g=2827 {I3}, I|g=0.1 {I1} (1969Ar25)
+ 86SR  L 3925.41    6 (4-,5-)
+ 86SR cL J$(4-) in 2020Gu18
+ 86SR  E             0.031    7 5.85   10 6.182  20             5.88      10
+ 86SRS E EAV=133 6$CK=0.8667 11$CL=0.10438 21$CM+=0.02366 11
+ 86SR  G 118.96    12 0.231  9  [D,E2]                  0.30  24             C
+ 86SR2 G %IG=0.191 8
+ 86SR cG $E|g=118.7 {I5}, I|g=0.25 {I9} (1969Ar25)
+ 86SR  G 369.90    8  0.480  15                                              C
+ 86SR2 G %IG=0.397 14
+ 86SR cG $E|g=370.28 {I17}, I|g=1.00 {I5} (1970Ra06)
+ 86SR cG $E|g=369 {I1}, I|g=0.48 {I9} (1969Ar25)
+ 86SR  G 425.83    10 0.291  10                                              C
+ 86SR2 G %IG=0.241 9
+ 86SR cG $E|g=425.97 {I23}, I|g=0.37 {I2} (1970Ra06)
+ 86SR  G 607.87    8  1.62   5                         0.0008719             C
+ 86SR2 G %IG=1.34 5
+ 86SR2 G EKC=0.00079 9 (1970Ra06)
+ 86SR cG $E|g=608.29 {I10}, I|g=2.44 {I18}, Ice(K)=4.5 {I5} (1970Ra06)
+ 86SR cG $E|g=609.3 {I5}, I|g=1.5 {I2} (1969Ar25)
+ 86SR cG $Ice(K)=6.2 {I10} (1962Ya01)
+ 86SRS G  KC=0.00077 17$LC=8.4E-5 19$MC=1.4E-5 4
+ 86SRS G  NC=1.8E-6 4$OC=1.1E-7 3
+ 86SR  G 634.52    8  0.220  17                                              C
+ 86SR2 G %IG=0.182 14
+ 86SR cG $E|g=634.78 {I2}, uncertainty is probably 0.20, I|g=0.11 {I3}
+ 86SR2cG (1970Ra06, uncertain assignment to {+86}Y decay)
+ 86SR  G 740.57    9  1.15   3                                               C
+ 86SR2 G %IG=0.951 30
+ 86SR cG $E|g=740.81 {I13}, I|g=1.65 {I6} (1970Ra06)
+ 86SR  G 869.99    11 0.448  12                                              C
+ 86SR2 G %IG=0.370 12
+ 86SR  G 929.0     3  0.173  6                                               C
+ 86SR2 G %IG=0.143 6
+ 86SR  G 1253.04   8  1.86   8                         0.000266              C
+ 86SR2 G %IG=1.54 7
+ 86SR2 G EKC=0.00018 5 (1970Ra06)
+ 86SR cG $E|g=1253.11 {I10}, I|g=1.86 {I6}, Ice(K)=0.8 {I2} (1970Ra06)
+ 86SR cG $E|g=1253 {I1}, I|g=1.6 {I5} (1969Ar25)
+ 86SR cG $Ice(K)=1.4 {I5} (1962Ya01)
+ 86SRS G  KC=1.66E-4 53$LC=1.78E-5 58$MC=2.98E-6 97
+ 86SRS G  NC=3.7E-7 13$OC=2.46E-8 80$IPC=7.5E-5 8
+ 86SR  G 1444.03   9  0.0678 20                                              C
+ 86SR2 G %IG=0.0560 19
+ 86SR  G 1696.00   8  0.911  25                                              C
+ 86SR2 G %IG=0.753 24
+ 86SR cG $E|g=1696.25 {I13}, I|g=0.77 {I2} (1970Ra06)
+ 86SR  L 3941.98   6  3-
+ 86SR cL $A 256.38 {I40} |g with I|g=0.09 {I3} in 1970Ra06 with uncertain
+ 86SR2cL assignment to {+86}Y decay and placed from 3942 level is not given
+ 86SR3cL by 2020Gu18
+ 86SR  E             0.0041  10 0.978  16 6.945  18             0.982     16
+ 86SRS E EAV=126 6$CK=0.8676 10$CL=0.10452 20$CM+=0.02370 11
+ 86SR  G 450.89    15 0.0457 20                                              C
+ 86SR2 G %IG=0.0378 18
+ 86SR  G 945.08    9  0.0772 18                                              C
+ 86SR2 G %IG=0.0638 18
+ 86SR  G 1064.13   9  0.0757 18                                              C
+ 86SR2 G %IG=0.0626 18
+ 86SR cG $E|g=1064 {I1}, I|g=0.9 {I4} (1969Ar25, intensity is in disagreement)
+ 86SR  G 1300.82   10 0.0434 24                                              C
+ 86SR2 G %IG=0.0359 21
+ 86SR cG $E|g=1300 {I1}, I|g=0.5 {I2} (1969Ar25)
+ 86SR  G 1712.46   9  0.0715 18                                              C
+ 86SR2 G %IG=0.0591 18
+ 86SR  G 2088.10   8  0.343  11E1                      7.58E-411             C
+ 86SR2 G %IG=0.284 10
+ 86SRS G  KC=6.38E-5 9$LC=6.74E-6 9$MC=1.130E-6 16
+ 86SRS G  NC=1.423E-7 20$OC=9.40E-9 13$IPC=0.000686 10
+ 86SR cG $E|g=2088.09 {I25}, I|g=0.30 {I3} (1970Ra06)
+ 86SR cG $E|g=2089 {I1}, I|g=0.46 {I16} (1969Ar25)
+ 86SR  G 2865.36   8  0.531  15 E1(+M2)  -0.003  14    1.20E-3 2             C
+ 86SR2 G %IG=0.439 14
+ 86SRS G  KC=4.05E-5 6$LC=4.27E-6 6$MC=7.16E-7 10
+ 86SRS G  NC=9.02E-8 13$OC=5.97E-9 8$IPC=0.001155 16
+ 86SR cG $E|g=2865.9 {I3}, I|g=0.46 {I8} (1970Ra06, placed from 4714 level)
+ 86SR cG $E|g=2866 {I4}, I|g=0.66 {I30} (1969Ar25)
+ 86SR  L 3968.32    6  4-
+ 86SR cL J$from |g|g(|q) (2020Gu18), but no supporting data given in the
+ 86SR2cL paper, and no discussion of spin of this level in the text.
+ 86SR  E             0.0037  10 1.316  30 6.797  19             1.320     30
+ 86SRS E EAV=114 6$CK=0.8688 8$CL=0.10470 19$CM+=0.02374 11
+ 86SR  G 468.73    10 0.175  7                                               C
+ 86SR2 G %IG=0.145 6
+ 86SR cG $E|g=469.24 {I25}, I|g=0.36 {I3} (1970Ra06)
+ 86SR  G 578.7     2  0.0059423                                              C
+ 86SR2 G %IG=0.00491 21
+ 86SR  G 606.90    8  0.0394 15                                              C
+ 86SR2 G %IG=0.0326 14
+ 86SR  G 783.48    12 0.320  12                                              C
+ 86SR2 G %IG=0.265 11
+ 86SR cG $E|g=783.56 {I26}, I|g=0.32 {I4} (1970Ra06)
+ 86SR  G 912.9     2  0.0773 22                                              C
+ 86SR2 G %IG=0.0639 21
+ 86SR  G 971.56    8  0.327  14  M1+E2   -0.59   23    6.02E-4 9             C
+ 86SR2 G %IG=0.270 12
+ 86SRS G  KC=0.000533 8$LC=5.76E-5 9$MC=9.67E-6 15
+ 86SRS G  NC=1.216E-6 19$OC=7.97E-8 11
+ 86SR cG $E|g=971.43 {I18}, I|g=0.33 {I4} (1970Ra06)
+ 86SR cG $E|g=974 {I1}, I|g=0.45 {I5} (1969Ar25)
+ 86SR  G 1296.03   12 0.575  15                                              C
+ 86SR2 G %IG=0.475 15
+ 86SR cG $E|g=1296.03 {I23}, I|g=0.66 {I4} (1970Ra06)
+ 86SR  G 1486.83   8  0.0223 8                                               C
+ 86SR2 G %IG=0.0184 7
+ 86SR  G 1738.65   20 0.051  3                                               C
+ 86SR2 G %IG=0.0422 26
+ 86SR  L 4144.67    8 (3,4+)
+ 86SR cL $A 380.4 {I3} |g with I|g=0.55 {I4} in 1970Ra06 placed from 4145 level
+ 86SR2cL is not confirmed by 2020Gu18 from |g|g-coin data
+ 86SR  E             3E-6     5 0.232   7 7.420  23             0.232      7
+ 86SRS E EAV=37 7$CK=0.87079 33$CL=0.10531 18$CM+=0.02389 11
+ 86SR  G 1503.40   12 0.0067 5                                               C
+ 86SR2 G %IG=0.0055 4
+ 86SR  G 2290.78   12 0.0405 12                                              C
+ 86SR2 G %IG=0.0335 11
+ 86SR cG $E|g=2291.8 {I5}, I|g=0.15 {I1} (1970Ra06)
+ 86SR cG $E|g=2290 {I2}, I|g=0.1 (1969Ar25)
+ 86SR  G 3068.04   20 0.234  7                                               C
+ 86SR2 G %IG=0.193 7
+ 86SR cG $E|g=3069.7 {I4}, I|g=0.14 {I2} (1970Ra06)
+ 86SR cG $E|g=3071 {I4}, I|g=0.78 {I20} (1969Ar25)
+ 86SR  G 4144.7    20 0.0001 LT                                                ?
+ 86SR2 G %IG LT 8.27E-5
+ 86SR cG $Mult=E3, M3 or E4 required for 4145|g to 0+. This |g is treated as
+ 86SR2cG uncertain by the evaluators.
+ 86SR  L 4203.40   21  (3,4+)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                       0.00450 30 6.772  21             0.00450   30
+ 86SRS E CK=0.871 13$CL=0.1054 16$CM+=0.02392 33
+ 86SR  G 3126.71   20 0.0054 3                                               C
+ 86SR2 G %IG=0.00446 26
+ 86SR  L 4205.41    7 (3-,4)
+ 86SR cL $A very weak 1150.34 {I18} |g in 1970Ra06 placed from 4205 level
+ 86SR2cL is not confirmed by 2020Gu18 from |g|g-coin data
+ 86SR  E                       0.919   17 6.772  21             0.919     17
+ 86SRS E CK=0.87063 33$CL=0.10545 18$CM+=0.02392 12
+ 86SR  G 1327.54   8  0.171  9                                               C
+ 86SR2 G %IG=0.141 8
+ 86SR cG $E|g=1327.5 {I5}, I|g=0.11 {I5} (1970Ra06)
+ 86SR cG $E|g=1330 {I1}, I|g=0.4 {I1} (1969Ar25)
+ 86SR  G 1532.99   8  0.250  7                                               C
+ 86SR2 G %IG=0.207 7
+ 86SR cG $E|g=1533.19 {I13}, I|g=0.27 {I4} (1970Ra06)
+ 86SR  G 1723.76   11 0.691  16                                              C
+ 86SR2 G %IG=0.571 16
+ 86SR cG $E|g=1724.15 {I10}, I|g=0.67 {I5} (1970Ra06)
+ 86SR cG $E|g=1723 {I1}, I|g=0.9 {I3} (1969Ar25)
+ 86SR  L 4224.93   11
+ 86SR  E                        0.0003 LT 10.241 GT
+ 86SRS E CK=0.87057 34$CL=0.10550 18$CM+=0.02393 12
+ 86SR  G 1995.3     2 0.0053 4                                               C
+ 86SR2 G %IG=0.00438 34
+ 86SR  L 4394.63    9 (4-,5)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                         0.167 6 7.334   27
+ 86SRS E CK=0.86993 36$CL=0.10600 20$CM+=0.02406 12
+ 86SR  G 169.7      2 0.0026111  [D,E2]                 0.08  6              C
+ 86SR2 G %IG=0.00216 10
+ 86SR  G 895.07    12 0.0866 22                                              C
+ 86SR2 G %IG=0.0716 22
+ 86SR  G 1103.69   12 0.033  4                                               C
+ 86SR2 G %IG=0.0273 33
+ 86SR  G 1339.25   12 0.0802 24                                              C
+ 86SR2 G %IG=0.0663 23
+ 86SR  L 4408.81   12 3-
+ 86SR cL $A 2555.3 {I17} |g with I|g=0.033 {I10} in 1970Ra06 placed from 4409
+ 86SR3cL level is not reported by 2020Gu18
+ 86SR  E                         0.199 8 7.243   29
+ 86SRS E CK=0.86987 36$CL=0.10605 20$CM+=0.02409 12
+ 86SR  G 1621.60   15 0.0061 4                                               C
+ 86SR2 G %IG=0.00504 34
+ 86SR  G 2179.2    2  0.0295 10                                              C
+ 86SR2 G %IG=0.0244 9
+ 86SR cG $E|g=2180.8 {I10}, I|g=0.04 {I1} (1970Ra06)
+ 86SR  G 3332.0    2  0.205  8   E1+M2    +0.15  2     1.41E-3 2             C
+ 86SR2 G %IG=0.169 7
+ 86SRS G  KC=3.41E-5 6$LC=3.59E-6 6$MC=6.02E-7 10
+ 86SRS G  NC=7.59E-8 13$OC=5.03E-9 8$IPC=0.001371 20
+ 86SR cG $E|g=3334.0 {I5}, I|g=0.15 {I2} (1970Ra06)
+ 86SR cG $E|g=3336 {I5}, I|g=0.4 {I3} (1969Ar25)
+ 86SR  G 4409      2  0.00014LT  [E3]                  1.06E-3 2
+ 86SR2 G %IG LT 1.157E-4
+ 86SRS G  KC=4.61E-5 6$LC=4.90E-6 7$MC=8.21E-7 12
+ 86SRS G  NC=1.035E-7 15$OC=6.87E-9 10$IPC=0.001013 14
+ 86SR  L 4441.09    8 (3-,4,5-)
+ 86SR  E                         0.158 4 7.309   26
+ 86SRS E CK=0.86971 37$CL=0.10618 21$CM+=0.02411 12
+ 86SR  G 216.0     3  0.00032 4  [D,E2]                 0.003630             C
+ 86SR2 G %IG=0.000265 33
+ 86SR  G 666.59    8  0.0044 3                                               C
+ 86SR2 G %IG=0.00364 26
+ 86SR  G 1385.70   12 0.0824 22                                              C
+ 86SR2 G %IG=0.0681 22
+ 86SR cG $E|g=1390 {I2}, I|g|?0.3 (1969Ar25, uncertain assignment to
+ 86SR2cG {+86}Y decay)
+ 86SR  G 1768.62   10 0.0949 25                                              C
+ 86SR2 G %IG=0.0784 25
+ 86SR  G 1959.5    2  0.0089 6                                               C
+ 86SR2 G %IG=0.0074 5
+ 86SR  L 4445.54   21 (2+,3,4+)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                        0.0053 5 8.778   47
+ 86SRS E CK=0.86969 37$CL=0.10619 21$CM+=0.02412 12
+ 86SR  G 3368.84   20 0.0064 5                                               C
+ 86SR2 G %IG=0.0053 4
+ 86SR  L 4448.97    6 (3-,4)
+ 86SR  E                         0.173 3 7.260   25
+ 86SRS E CK=0.86967 37$CL=0.10621 21$CM+=0.02412 12
+ 86SR  G 223.9     2  0.00076 5  [D,E2]                 0.032 22             C
+ 86SR2 G %IG=0.00063 4
+ 86SR  G 949.55    8  0.0134 5                                               C
+ 86SR2 G %IG=0.0111 5
+ 86SR  G 1393.6    2  0.0209 10                                              C
+ 86SR2 G %IG=0.0173 9
+ 86SR  G 1452.21   8  0.0473 12                                              C
+ 86SR2 G %IG=0.0391 12
+ 86SR  G 1570.96   11 0.0152 6                                               C
+ 86SR2 G %IG=0.0126 5
+ 86SR  G 1776.6    2  0.0101 5                                               C
+ 86SR2 G %IG=0.0083 4
+ 86SR  G 1967.41   8  0.0492 14                                              C
+ 86SR2 G %IG=0.0407 13
+ 86SR cG $E|g=1969.1 {I7}, I|g=0.06 {I1} (1970Ra06, unplaced). Due to energy
+ 86SR2cG difference of 1.7 keV, it could be different line in 1970Ra06
+ 86SR  G 2219.35   8  0.0523 15                                              C
+ 86SR2 G %IG=0.0432 14
+ 86SR  L 4465.82   7  (3-,4)
+ 86SR  E                         0.161 4 7.273   26
+ 86SRS E CK=0.86958 37$CL=0.10628 21$CM+=0.02415 12
+ 86SR  G 240.9     2  0.00054 4  [D,E2]                 0.025 17             C
+ 86SR2 G %IG=0.000446 34
+ 86SR  G 966.24    12 0.0138 4                                               C
+ 86SR2 G %IG=0.0114 4
+ 86SR  G 1410.3    2  0.0879 22                                              C
+ 86SR2 G %IG=0.0727 22
+ 86SR  G 1469.1    2  0.0141 4                                               C
+ 86SR2 G %IG=0.0117 4
+ 86SR  G 1587.87   8  0.0309 12                                              C
+ 86SR2 G %IG=0.0255 11
+ 86SR  G 1984.37   8  0.0481 16                                              C
+ 86SR2 G %IG=0.0398 15
+ 86SR  L 4497.75   7  (3,4+)
+ 86SR  E                        0.0817 16 7.530  26
+ 86SRS E CK=0.86940 38$CL=0.10642 22$CM+=0.02418 12
+ 86SR  G 1500.92   8  0.0528 15                                              C
+ 86SR2 G %IG=0.0436 14
+ 86SR  G 1619.82   8  0.0270 8                                               C
+ 86SR2 G %IG=0.0223 8
+ 86SR  G 1710.6    3  0.0043215                                              C
+ 86SR2 G %IG=0.00357 14
+ 86SR  G 2268.24   12 0.0147 7                                               C
+ 86SR2 G %IG=0.0122 6
+ 86SR  L 4580.20   21 (3,4+)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                        0.0138 10 8.198  41
+ 86SRS E CK=0.86885 40$CL=0.10686 24$CM+=0.02429 13
+ 86SR  G 3503.49   20 0.0167 11                                              C
+ 86SR2 G %IG=0.0138 9
+ 86SR  L 4608.46    8  (4,5-)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                        0.0635 20 7.496  31
+ 86SRS E CK=0.86863 41$CL=0.10703 24$CM+=0.02434 13
+ 86SR  G 1053.2    3  0.0122 4                                               C
+ 86SR2 G %IG=0.0101 4
+ 86SR  G 1935.97   8  0.0043114                                              C
+ 86SR2 G %IG=0.00356 13
+ 86SR cG $E|g=1940 {I3}, I|g=0.15 {I5} (1969Ar25, intensity in disagreement)
+ 86SR  G 2126.97   8  0.0603 22                                              C
+ 86SR2 G %IG=0.0498 20
+ 86SR cG $E|g=2130 {I2}, I|g=0.15 {I7} (1969Ar25)
+ 86SR  L 4691.13    8 (3-,4,5-)
+ 86SR  E                         0.094 3 7.201   34
+ 86SRS E CK=0.86784 46$CL=0.10766 28$CM+=0.02450 14
+ 86SR  G 466.4     3  0.00170 9                                              C
+ 86SR2 G %IG=0.00141 8
+ 86SR  G 1004.67   12 0.0075 3                                               C
+ 86SR2 G %IG=0.00620 27
+ 86SR  G 1635.73   8  0.0674 23                                              C
+ 86SR2 G %IG=0.0557 21
+ 86SR  G 2018.48   15 0.0262 15                                              C
+ 86SR2 G %IG=0.0217 13
+ 86SR  G 2209.6    2  0.0102 5                                               C
+ 86SR2 G %IG=0.0084 4
+ 86SR  L 4713.58   18  (3,4+)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR cL $A 2862 {I3} |g with I|g=0.011 {I5} in 1970Ra06 placed from 4714 level
+ 86SR3cL is placed from 3941 level by 2020Gu18 from |g|g-coin data
+ 86SR  E                        0.0569 17 7.382  35
+ 86SRS E CK=0.86758 47$CL=0.10786 29$CM+=0.02456 14
+ 86SR  G 2484.2    3  0.0118 5  D+Q       +0.05  1                           C
+ 86SR cG $|d=+0.05 {I1} from |g|g(|q) data (2020Gu18), but no spin is
+ 86SR2cG given for the 4713 level
+ 86SR2 G %IG=0.0098 4
+ 86SR  G 3636.80   20 0.057  2                                               C
+ 86SR2 G %IG=0.0471 18
+ 86SR cG $E|g=3642 {I2}, I|g=0.05 {I1} (1970Ra06)
+ 86SR cG $E|g=3640 {I4}, I|g=0.4 {I3} (1969Ar25)
+ 86SR  L 4751.27   11
+ 86SR  E                        0.0029020 8.608  45
+ 86SRS E CK=0.8671 5$CL=0.10825 31$CM+=0.02466 15
+ 86SR  G 1361.63   8  0.0035123                                              C
+ 86SR2 G %IG=0.00290 20
+ 86SR  L 4848.80   22 (3,4,5-)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                        0.0094 4 7.897   45
+ 86SRS E CK=0.8654 6$CL=0.10962 41$CM+=0.02501 17
+ 86SR  G 1663.9    3  0.0028415                                              C
+ 86SR2 G %IG=0.00235 13
+ 86SR cG $E|g=1661 {I12}, I|g=0.5 {I2} (1969Ar25, intensity in disagreement)
+ 86SR  G 2619.4    3  0.0085 3                                               C
+ 86SR2 G %IG=0.00703 27
+ 86SR cG $E|g=2617 {I2}, I|g=0.20 {I8} (1969Ar25, intensity in disagreement)
+ 86SR  L 4894.54   21 (3,4,5)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                        0.0033317 8.24    5
+ 86SRS E CK=0.8642 7$CL=0.11054 49$CM+=0.02526 19
+ 86SR  G 2665.0    2  0.0040319                                              C
+ 86SR2 G %IG=0.00333 17
+ 86SR  L 4956.08   24 (3)
+ 86SR cL J$no assignment in 2020Gu18
+ 86SR  E                        0.0530 13 6.86    6
+ 86SRS E CK=0.8620 10$CL=0.1123 7$CM+=0.02573 23
+ 86SR  G 2314.9     4 0.0033 3                                               C
+ 86SR2 G %IG=0.00273 25
+ 86SR  G 2726.4     4 0.0055123                                              C
+ 86SR2 G %IG=0.00455 21
+ 86SR  G 3879.5     4 0.0553 15  D+Q      +0.06  5                           C
+ 86SR cG $|d(Q/D)=+0.06 {I5} from |g|g(|q) data (2020Gu18), but no spin is
+ 86SR2cG given for the 4956 level
+ 86SR2 G %IG=0.0457 15
+ 86SR cG $E|g=3877 {I6}, I|g=0.06 {I5} (1970Ra06)
+ 86SR cG $E|g=3888 {I5}, I|g|?0.37 (1970Ra06, intensity in disagreement)
+
+	
+

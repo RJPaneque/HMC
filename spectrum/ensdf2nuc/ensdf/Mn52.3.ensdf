@@ -1,0 +1,64 @@
+
+
+ 52CR    52MN EC DECAY (5.591 D)       1978MEZK,1977YA08         15NDS    201509
+ 52CR  H TYP=FUL$AUT=YANG DONG, HUO JUNDE$CIT=NDS 128, 185 (2015)$
+ 52CR2 H CUT=10-Jul-2015$
+ 52CR c  Others: 1996La20, 1990Me15, 1980Iw03, 1979ArZT, 1975BaXO, 1972GeZF,
+ 52CR2c  1967Pa22, 1966Fr05, 1962Wi08.
+ 52CR c  1977Ya08: chemically separated sources from {+51}V(|a,3n),
+ 52CR2c  measured E|g, I|g, a Compton suppression spectrometer system,
+ 52CR3c  several large volume Ge(Li) detectors.
+ 52CR C  1978MeZK: from LLL-M-100, Multigamma-ray calibration sources.
+ 52CR c  Decay scheme from 1977Ya08.
+ 52CR cG $Experimental conversion information see 1966Fr05,
+ 52CR2cG 1962Wi08, 1960Ka20. |g|g-coin: from 1967Pa22 and 1962Wi08.
+ 52CR cG E,RI      From 1978MeZK, except as noted.
+ 52CR cG M,MR      From adopted gammas.
+ 52CR cG RI(H),E(H)$From 1977Ya08
+ 52CR cL J         From adopted levels.
+ 52MN  P 0.0          6+               5.591 D   3              4711.2    19
+ 52CR  N 1.00      1           1.0       1.0
+ 52CR cN NR        from |SI|g(g.s.)=100
+ 52CR PN                                                                    C3
+ 52CR2PN TI per 100 parent decays
+ 52CR  G 1441       1 0.003   2                                             H
+ 52CR  G 1839.14   17 0.005   1
+ 52CR  L 0.0          0+
+ 52CR  L 1434.111  17 2+
+ 52CR  G 1434.092  17 100     1E2                                            C
+ 52CR  L 2369.654  21 4+
+ 52CR  G 935.544   12 94.5    9E2                                            C
+ 52CR  L 2767.786  23 4+
+ 52CR  G 398.09     9 0.089   7                                              C
+ 52CR  G 1333.649  17 5.07    5E2                                            C
+ 52CR  L 3113.883  24 6+
+ 52CR  E               29.4  4   61.4  6   5.580  5              90.8      8
+ 52CRS E EAV=241.59 80$CK=0.6019 23$CL=0.06289 24$CM+=0.01090 4
+ 52CR  G 346.02     4 0.98    1E2                                            C
+ 52CR  G 744.233   13 90.0    8E2                                            C
+ 52CR  L  3415.33   3 4+
+ 52CR  G 647.47     6 0.40    2M1+E2      0.22   8
+ 52CR  G 1045.75    8 0.07    2
+ 52CR  G 1981.12    4 0.034   3
+ 52CR  L 3615.946  24 5+
+ 52CR  E              0.0011814  7.69  6   6.153  4              7.69      6
+ 52CRS E EAV=33.91 82$CK=0.8903$CL=0.09332$CM+=0.01618
+ 52CR  G 200.58     4 0.076   2
+ 52CR  G 502.06     5 0.21    2
+ 52CR  G 848.18     5 3.32    3                                              C
+ 52CR  G 1246.278  15 4.21    6                                              C
+ 52CR  L  4015.52   4 5+
+ 52CR  E                         1.04   5  6.625 21              1.04      5
+ 52CRS E CK=0.8899$CL=0.09380$CM+=0.01628
+ 52CR  G 399.57     5 0.183   7
+ 52CR  G 600.16     5 0.39    1
+ 52CR  G 901.89    18 0.044   4
+ 52CR  G 1247.88    9 0.38    4
+ 52CR  G 1645.82    4 0.047   3
+ 52CR  L  4627.13  20 4+
+ 52CR  E                        0.0027  6  7.32  10              0.0027    6
+ 52CRS E CK=0.8778 4$CL=0.1039 3$CM+=0.01827 6
+ 52CR  G 2257.42   19 0.0027  6
+
+	
+
